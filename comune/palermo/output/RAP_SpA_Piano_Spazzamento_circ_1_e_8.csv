@@ -1,0 +1,1674 @@
+TIPO,VIA,TRATTI,CIRC.,FREQ.,LUN,MAR,MER,GIO,VEN,SAB,ITINERARIO,SEDE
+VICOLO,ABELA,,8,bisett.,,x,,,x,,C8B31,STRAZZERI
+VIA,ABELA GAETANO,,8,bisett.,,x,,,x,,C8B31,STRAZZERI
+VIA,ABRUZZI,Sardegna - Umbria,8,sett.,,x,,,,,C8S38,MOZART
+VIA,ABRUZZI,Umbria - Lazio,8,sett.,,,x,,,,C8S39,MOZART
+CORTILE,ACQUASANTA,,8,sett.,,,,,,x,C8S24,STRAZZERI
+PIAZZA,ACQUASANTA,,8,trisett.,,x,,x,,x,C8T21,STRAZZERI
+VICOLO,ADDOLORATA,,1,bisett.,,x,,,x,,C1B06,STRAZZERI
+VICOLO,AGALBATO,,1,sett.,,,,,,x,C1S06,STRAZZERI
+VICOLO,AGNETTA,,1,sett.,,,,,,x,C1S06,STRAZZERI
+VIA,AGRIGENTO,Sammartino - Libertà,8,bisett.,x,,,x,,,C8B26,STRAZZERI
+VIA,AIROLDI CESARE,,8,sett.,,,x,,,,C8S15,STRAZZERI
+VIA,ALAIMO DA LENTINI,,8,bisett.,x,,,x,,,C8B13,STRAZZERI
+VIA,ALBANESE ENRICO,Libertà - Calvi,8,trisett.,,x,,x,,x,C8T07,STRAZZERI
+VIA,ALBANESE ENRICO,Calvi - Ucciardone (compresa bretella interna Ucciardone),8,trisett.,,x,,x,,x,C8T08,STRAZZERI
+VIA,ALBERGHERIA,,1,bisett.,,x,,,x,,C1B14,CAMPISI
+CORSO,ALBERTO AMEDEO,"P.za Porta Guccia -C.so F. Aprile (entrambe le
+carreggiate sopraelevate)",1,trisett.,x,,x,,x,,C1T11,STRAZZERI
+VIA,ALESSI GIUSEPPE,,8,trisett.,x,,x,,x,,C8T18,MOZART
+LARGO,ALFANO EDOARDO,,8,bisett.,,,x,,,x,C8B06,STRAZZERI
+VIA,ALFIERI VITTORIO,,8,bisett.,,,x,,,x,C8B43,MOZART
+VIA,ALLORO,Torremuzza - della Vetriera,1,giorn.,x,x,x,x,x,x,C1G01,INGHAM
+VIA,ALLORO,della Vetriera - P.za Aragona,1,trisett.,,x,,x,,x,C1T06,INGHAM
+PIAZZETTA,ALTAVILLA,,8,sett.,,,,,,x,C8S24,STRAZZERI
+VIA,ALTAVILLA,Isaac Rabin - Thaon De Revel,8,sett.,,,x,,,,C8S21,MOZART
+VIA,ALTAVILLA,Thaon De Revel -Rizzo,8,sett.,,,x,,,,C8S21,MOZART
+VIA,AMARI EMERICO,Via Ruggero Settimo - Via Roma,8,giorn.,x,x,x,x,x,x,C8G06,STRAZZERI
+VIA,AMARI EMERICO,Roma - Crispi (comprese le bretelle laterali),8,giorn.,x,x,x,x,x,x,C8G05,STRAZZERI
+VIA,AMARI MICHELE,Emerico Amari - P.pe di Belmonte,8,bisett.,x,,,x,,,C8B04,STRAZZERI
+VIA,AMARI MICHELE,Stabile - P.pe di Belmonte,8,bisett.,,x,,,x,,C8B05,STRAZZERI
+CORTILE,AMATO (1),,8,bisett.,,x,,,x,,C8B18,STRAZZERI
+CORTILE,AMATO (2),,8,bisett.,,x,,,x,,C8B18,STRAZZERI
+VIA,AMBRA,,1,bisett.,,x,,,x,,C1B07,STRAZZERI
+PIAZZA,AMENDOLA GIOVANNI,compresi camminamenti interni villetta,8,trisett.,,x,,x,,x,C8T02,STRAZZERI
+VIA,AMICO UGO ANTONIO,,1,trisett.,x,,x,,x,,C1T10,STRAZZERI
+VIA,AMODEI PIETRO,,1,giorn.,x,x,x,x,x,x,C1G16,CAMPISI
+VIA,ANDO' FLAVIO,,1,sett.,,,,x,,,C1S17,CAMPISI
+VIA,ANGELINI TOMMASO,Di Maria - Terrasanta,8,bisett.,,x,,,x,,C8B24,MOZART
+VIA,ANGELINO FRANCESCO,,8,sett.,,,,,x,,C8S23,MOZART
+VIA,ANGELITTI FILIPPO,,8,sett.,,,x,,,,C8S27,MOZART
+VIA,ANGIO',,8,sett.,x,,,,,,C8S13,STRAZZERI
+CORTILE,ANIME SANTE,,8,sett.,,,x,,,,C8S03,STRAZZERI
+VIA,ANIME SANTE,,8,sett.,,,x,,,,C8S03,STRAZZERI
+VICOLO,ANTONELLO,,1,sett.,,,,,,x,C1S13,CAMPISI
+VIA,ANTONELLO DA MESSINA,Impastato - Loria,8,sett.,,,x,,,,C8S15,STRAZZERI
+VIA,ANTONELLO DA MESSINA,Impastato - Cantieri,8,bisett.,,x,,,x,,C8B11,STRAZZERI
+PIAZZETTA,APPALTO,,1,bisett.,,x,,,x,,C1B07,STRAZZERI
+VICOLO,APPALTO (1),,1,bisett.,,x,,,x,,C1B07,STRAZZERI
+VICOLO,APPALTO (2),,1,bisett.,,x,,,x,,C1B07,STRAZZERI
+VIA,AQUILEIA,Lazio - delle Alpi,8,bisett.,,,x,,,x,C8B37,MOZART
+PIAZZA,ARAGONA,,1,giorn.,x,x,x,x,x,x,C1G04,INGHAM
+VIA,ARAGONA,,1,trisett.,x,,x,,x,,C1T05,INGHAM
+VIA,ARCHIMEDE,P.za della Pace - Calvi,8,bisett.,,x,,,x,,C8B08,STRAZZERI
+VIA,ARCHIMEDE,Libertà - Carini,8,trisett.,x,,x,,x,,C8T06,STRAZZERI
+VIA,ARENA ORESTE,,8,sett.,x,,,,,,C8S13,STRAZZERI
+VIA,ARGENTERIA,,1,giorn.,x,x,x,x,x,x,mercati,INGHAM -RD
+VIA,ARGENTERIA VECCHIA,,1,bisett.,,x,,,x,,C1B07,STRAZZERI
+VIA,ARGENTIERI,,8,sett.,,,,x,,,C8S16,STRAZZERI
+VIA,ARIMONDI GIUSEPPE GEN.,Villabianca - Sampolo,8,giorn.,x,x,x,x,x,x,C8G10,STRAZZERI
+VIA,ARIMONDI GIUSEPPE GEN.,Libertà - Villabianca,8,bisett.,,x,,,x,,C8B18,STRAZZERI
+VIA,ARIOSTO LUDOVICO,Pecoraro - Leopardi,8,bisett.,,x,,,x,,C8B48,MOZART
+VIA,ARIOSTO LUDOVICO,Leopardi - Libertà,8,bisett.,,,x,,,x,C8B46,MOZART
+PIAZZA,ARMSTRONG LOUIS DANIEL,,8,bisett.,x,,,x,,,C8B51,MOZART
+SALITA,ARTALE,,1,sett.,,,,x,,,C1S11,CAMPISI
+VICOLO,ARTALE,,1,sett.,,,,x,,,C1S11,CAMPISI
+VIA,ASPROMONTE,,8,sett.,x,,,,,,C8S37,MOZART
+CORTILE,AUFERI,,8,sett.,,,x,,,,C8S03,STRAZZERI
+VIA,AUFERI,,8,sett.,,,x,,,,C8S03,STRAZZERI
+VICOLO,AUFERI,,8,sett.,,,x,,,,C8S03,STRAZZERI
+VICOLO,AVERNA,,1,bisett.,,,x,,,x,C1B20,CAMPISI
+VIA,AVOLIO CORRADO,Tukory - Del Giudice,1,bisett.,x,,,x,,,C1B13,CAMPISI
+PIAZZETTA,BAGNASCO FRANCESCO,,8,giorn.,x,x,x,x,x,x,C8G03,STRAZZERI
+CORTILE,BAGNI MINERALI,,8,sett.,,,,x,,,C8S22,MOZART
+VIA,BAGOLINO SEBASTIANO,,8,bisett.,x,,,x,,,C8B13,STRAZZERI
+VIA,BAINSIZZA,,8,bisett.,,,x,,,x,C8B40,MOZART
+VIA,BALDISSERA ANTONIO GEN.,,8,bisett.,,x,,,x,,C8B18,STRAZZERI
+PIAZZA,BALLARO',,1,giorn.,x,x,x,x,x,x,mercati,INGHAM -RD
+PIAZZETTA,BALLARO',,1,giorn.,x,x,x,x,x,x,C1G15,CAMPISI
+VIA,BALLO TOMMASO,,8,sett.,,,,,,x,C8S30,MOZART
+VIA,BALSANO SALESIO,,8,trisett.,x,,x,,x,,C8T01,STRAZZERI
+DISCESA,BANDIERA,,1,bisett.,,,x,,,x,C1B08,STRAZZERI
+VIA,BANDIERA,,1,bisett.,,,x,,,x,C1B08,STRAZZERI
+VIA,BARA ALL'OLIVELLA,Roma - Maqueda,1,giorn.,x,x,x,x,x,x,C1G08,STRAZZERI
+VIA,BARA ALL'OLIVELLA,Angelini - Roma,1,trisett.,,x,,x,,x,C1T12,STRAZZERI
+VICOLO,BARA SULLE MURA DELL'ITRIA,,1,giorn.,x,x,x,x,x,x,C1G07,STRAZZERI
+VIA,BARBARACI,,1,sett.,x,,,,,,C1S01,STRAZZERI
+VIA,BARBAZZA ANDREA,,8,sett.,x,,,,,,C8S31,MOZART
+VIA,BARBERA VINCENZO,,8,sett.,,,,x,,,C8S34,MOZART
+VIA,BARBIERI GIAN LUCA,,1,sett.,,,x,,,,C1S16,CAMPISI
+VIA,BARCA AMILCARE,,8,bisett.,x,,,x,,,C8B13,STRAZZERI
+VIA,BARI,,1,bisett.,,,x,,,x,C1B08,STRAZZERI
+PIAZZA,BARONIO MANFREDI F.,,1,bisett.,,,x,,,x,C1B15,CAMPISI
+VIA,BARRELLO (strada privata chiusa),,8,,,,,,,,"strada privata
+chiusa",
+PIAZZA,BARTOLOMEO DA MESSINA,,8,bisett.,,,x,,,x,C8B12,STRAZZERI
+VIA,"BARTOLOZZI GIUSEPPE già VIA M.
+37",,8,sett.,,,,,x,,C8S17,STRAZZERI
+LARGO,BASILE FILIPPO,,8,sett.,x,,,,,,C8S31,MOZART
+VIA,BASILE GIOVANBATTISTA F.,Del Fervore - Marconi,8,sett.,,,,,,x,C8S06,STRAZZERI
+VIA,BASILE GIOVANBATTISTA F.,Marconi - Turrisi Colonna,8,sett.,,,,x,,,C8S07,STRAZZERI
+VIA,BASILE NINO,,1,giorn.,x,x,x,x,x,x,C1G15,CAMPISI
+VIA,BASSI UGO,,8,bisett.,,x,,,x,,C8B08,STRAZZERI
+CORTILE,BATTAGLIA,,1,sett.,,,x,,,,C1S16,CAMPISI
+VIA,BATTISTI CESARE,Maqueda - Porta S. Agata,1,bisett.,,x,,,x,,C1B21,CAMPISI
+PIAZZA,BEATI PAOLI,,1,trisett.,x,,x,,x,,C1T09,STRAZZERI
+VIA,BEATI PAOLI,P.zza S. Isidoro alla Guilla - P.zza Beati Paoli,1,bisett.,,x,,,x,,C1B10,STRAZZERI
+VIA,BEATI PAOLI,P.za Beati Paoli -Porta Carini,1,giorn.,x,x,x,x,x,x,mercati,INGHAM -RD
+LARGO,BEATO JOSEMARIA ESCRIVA',,8,bisett.,,,x,,,x,C8B57,MOZART
+VIA,BEETHOVEN LUDWIG VAN,,8,sett.,,,,x,,,C8S28,MOZART
+CORTILE,BELLANTE SCALICI,,8,sett.,,,,,,x,C8S24,STRAZZERI
+PIAZZA,BELLINI,,1,giorn.,x,x,x,x,x,x,C1G16,CAMPISI
+SALITA,BELMONTE,,8,sett.,,,,x,,,C8S22,MOZART
+VIA,BELMONTE,,8,sett.,,,,x,,,C8S22,MOZART
+VIA,BENFRATELLI,,1,sett.,,,x,,,,C1S16,CAMPISI
+CORTILE,BENSA,,1,sett.,,,,,x,,C1S05,STRAZZERI
+CORTILE,BENSO,,8,sett.,,,,,x,,C8S05,STRAZZERI
+VIA,BENTIVEGNA FRANCESCO,Villaermosa - P.pe di Scordia,8,bisett.,,,x,,,x,C8B03,STRAZZERI
+VIA,BERNABEI ERCOLE,,8,bisett.,,x,,,x,,C8B59,MOZART
+VIA,BETTOLO GIOVANNI AMM.,Rizzo - Palestra,8,sett.,,,,,,x,C8S24,STRAZZERI
+VIA,BEVIGNANI ENRICO,Casella - Pizzetti,8,sett.,,x,,,,,C8S26,MOZART
+VIA,BIRAGO DALMAZIO(mercato),,1,giorn.,x,x,x,x,x,x,mercati,INGHAM -RD
+VIA,BIVONA GASPARE,,1,sett.,,,x,,,,C1S03,STRAZZERI
+VIA,BLASCO D'ALAGONA,,8,bisett.,x,,,x,,,C8B13,STRAZZERI
+VIA,BLIGNY,,8,bisett.,,,x,,,x,C8B40,MOZART
+PIAZZA,BOCCACCIO GIOVANNI,,8,bisett.,,,x,,,x,C8B46,MOZART
+PIAZZA,BOIARDO MATTEO MARIA,,8,giorn.,x,x,x,x,x,x,C8G12,MOZART
+VIA,BOITO ARRIGO,,8,sett.,x,,,,,,C8S25,MOZART
+VIA,BOLOGNA,,1,sett.,x,,,,,,C1S08,CAMPISI
+PIAZZA,BOLOGNI,,1,giorn.,x,x,x,x,x,x,C1G15,CAMPISI
+VIA,BONANNO GIOVANNI,Libertà - Roccaforte,8,bisett.,,x,,,x,,C8B22,MOZART
+VIA,BONANNO GIOVANNI,Roccaforte - Sampolo,8,sett.,x,,,,,,C8S09,MOZART
+VIA,BONANNO PIETRO,ultimi 50 m. prima di spianata Sagra Grotta,8,trisett.,x,,x,,x,,C8T29,PARTANNA
+VIA,BONANNO PIETRO,ultimi 50 m. prima di spianata Sagra Grotta,8,trisett.,,x,,x,,x,C8T30,PARTANNA
+VIA,BONANNO PIETRO,rotonda Bonanno - Rampolla,8,quind.,,,,,x,,C8Q02,MOZART
+VIA,BONANNO PIETRO,"Rampolla - Ristorante ""Villa Costanza""",8,quind.,,,,,x,,C8Q02,MOZART
+VICOLO,BONDIO (1),,1,bisett.,,,x,,,x,C1B03,INGHAM
+VICOLO,BONDIO (2),,1,bisett.,,,x,,,x,C1B03,INGHAM
+VIA,BONELLO MATTEO,Vittorio Emanuele - C.le dei Pellegrini,1,giorn.,x,x,x,x,x,x,C1G17,CAMPISI
+VIA,BONELLO MATTEO,C.le dei Pellegrini - Papireto,1,trisett.,x,,x,,x,,C1T11,STRAZZERI
+VIA,BONELLO MATTEO,Papireto - Carrettieri,1,bisett.,,,x,,,x,C1B11,STRAZZERI
+VIA,BONELLO MATTEO,Carrettieri - Cappuccinelle,1,sett.,,x,,,,,C1S02,STRAZZERI
+VIA,BONFIGLIO COSTANZO G.PPE,,8,bisett.,,x,,,x,,C8B24,MOZART
+VIA,BONO SALVATORE,,8,sett.,x,,,,,,C8S09,MOZART
+VIA,BONOMO GABRIELE,,8,bisett.,x,,,x,,,C8B04,STRAZZERI
+VIA,BONTA',,8,bisett.,,,x,,,x,C8B06,STRAZZERI
+PIAZZA,BORGESE GIOVANNI,,1,bisett.,x,,,x,,,C1B09,STRAZZERI
+VIA,BORGHI GIUSEPPE,,8,bisett.,,,x,,,x,C8B43,MOZART
+VIA,BORGO NUOVO,,8,sett.,,,x,,,,C8S03,STRAZZERI
+VIA,BORRELLI ALFONSO,P.zza Crispi - Calvi,8,giorn.,x,x,x,x,x,x,C8G08,STRAZZERI
+VIA,BORRELLI ALFONSO,Calvi - V.lo Ucciardone,8,trisett.,,x,,x,,x,C8T08,STRAZZERI
+VIA,BORREMANS GUGLIELMO,comprese le bretelle laterali,8,bisett.,x,,,x,,,C8B54,MOZART
+VIA,BORZI' ANTONINO,,1,bisett.,,,x,,,x,C1B08,STRAZZERI
+VIA,BOTTA CARLO,,1,bisett.,x,,,x,,,C1B01,INGHAM
+VIA,BOTTAI,,1,giorn.,x,x,x,x,x,x,C1G05,INGHAM
+PIAZZA,BOTTEGO VITTORIO,,1,giorn.,x,x,x,x,x,x,C1G12,STRAZZERI
+VIA,BOTTICELLI SANDRO,,8,sett.,,,,,,x,C8S35,MOZART
+VIA,BRAHMS GIOVANNI,,8,sett.,,,,x,,,C8S28,MOZART
+VIA,BRIGATA AOSTA,,8,sett.,,,,,,x,C8S14,STRAZZERI
+VIA,BRIGATA VERONA,Empedocle Restivo - Campania,8,bisett.,,x,,,x,,C8B36,MOZART
+VIA,BRIGATA VERONA,Campania - Vittorio Veneto,8,trisett.,x,,x,,x,,C8T24,MOZART
+VIA,BROGGI GIUSEPPE,,8,sett.,,,,,,x,C8S14,STRAZZERI
+VICOLO,BRUGNO',,1,bisett.,,x,,,x,,C1B17,CAMPISI
+PIAZZETTA,BRUNACCINI LUCREZIA,,1,sett.,x,,,,,,C1S14,CAMPISI
+VIA,BRUNO GIORDANO GIUSEPPE,,1,bisett.,,,x,,,x,C1B03,INGHAM
+VIA,BUON PASTORE,,1,sett.,,,x,,,,C1S03,STRAZZERI
+VIA,BUSARI,,1,bisett.,,,x,,,x,C1B15,CAMPISI
+VICOLO,BUSARI,,1,sett.,,x,,,,,C1S02,STRAZZERI
+VIA,BUTERA,,1,bisett.,,,x,,,x,C1B05,INGHAM
+PIAZZA,C.M. 1,,1,sett.,,,,x,,,C1S04,STRAZZERI
+CORTILE,CACCAMO,,1,bisett.,x,,,x,,,C1B01,INGHAM
+VICOLO,CACCAMO ALLA BARA (1),,1,giorn.,x,x,x,x,x,x,C1G07,STRAZZERI
+VICOLO,CACCAMO ALLA BARA (2),,1,giorn.,x,x,x,x,x,x,C1G07,STRAZZERI
+VICOLO,CACCAMO ALL'ALLORO,,1,bisett.,x,,,x,,,C1B01,INGHAM
+VICOLO,CACCIATORE,,1,giorn.,x,x,x,x,x,x,C1G08,STRAZZERI
+VIA,CACCIATORE NICOLO',,8,sett.,,,,x,,,C8S16,STRAZZERI
+VIA,CACIOPPO LEONARDO,,1,sett.,,,x,,,,C1S03,STRAZZERI
+VIA,CADORNA LUIGI GEN.,Mongitore - Tukory,1,bisett.,,,x,,,x,C1B15,CAMPISI
+VIA,CADORNA LUIGI GEN.,Bastione - Mongitore,1,bisett.,x,,,x,,,C1B16,CAMPISI
+VICOLO,CAFISARI,,1,sett.,,x,,,,,C1S15,CAMPISI
+VIA,CAGLIARI,,1,trisett.,x,,x,,x,,C1T05,INGHAM
+VIA,CALA,lato monte,1,trisett.,,x,,x,,x,C1T13,STRAZZERI
+VIA,CALA,lato mare,1,trisett.,,x,,x,,x,C1T13,STRAZZERI
+VIA,CALABRIA,,8,bisett.,,x,,,x,,C8B36,MOZART
+VIA,CALASCIBETTA,,1,trisett.,,x,,x,,x,C1T07,INGHAM
+VIA,CALDERAI,,1,bisett.,,,x,,,x,C1B20,CAMPISI
+PIAZZETTA,CALDOMAI,,1,sett.,,,,x,,,C1S04,STRAZZERI
+VICOLO,CALDOMAI,,1,sett.,,,,x,,,C1S04,STRAZZERI
+VIA,CALIPARI NICOLA,,1,trisett.,x,,x,,x,,C1T14,STRAZZERI
+VIA,CALLIMACO ANGELO,,8,sett.,,,,,x,,C8S29,MOZART
+VIA,CALTANISSETTA,,8,bisett.,x,,,x,,,C8B26,STRAZZERI
+VIA,CALVI PASQUALE,Delle Croci - P.zza Nasce,8,giorn.,x,x,x,x,x,x,C8G08,STRAZZERI
+VIA,CAMPAILLA TOMMASO,,8,sett.,,,x,,,,C8S03,STRAZZERI
+VIALE,CAMPANIA,,8,bisett.,,x,,,x,,C8B35,MOZART
+VIA,CAMPOLO GIOVANNI,Lancia di Brolo - Pacinotti,8,bisett.,,,x,,,x,C8B57,MOZART
+VIA,CAMPOLO GIOVANNI,Pacinotti - Serradifalco (tutte le carreggiate),8,bisett.,,x,,,x,,C8B59,MOZART
+VICOLO,CANCELLO AL MONTE,,1,sett.,,,,,x,,C1S05,STRAZZERI
+VICOLO,CANCELLO ALLA GIOIAMIA,,1,sett.,,,,x,,,C1S11,CAMPISI
+VIA,CANDELAI,,1,bisett.,,x,,,x,,C1B10,STRAZZERI
+CORTILE,CANNATA,,1,sett.,,,,,,x,C1S13,CAMPISI
+VICOLO,CANNATA,,1,sett.,,,,,,x,C1S13,CAMPISI
+VIA,CANNATELLO (interno Pretura),,1,,,,,,,,"strada privata
+chiusa",
+VIA,CANTAVESPRI VINCENZO,,1,trisett.,x,,x,,x,,C1T05,INGHAM
+VIA,CANTIERE FINOCCHIARO,,8,bisett.,,x,,,x,,C8B27,STRAZZERI
+VIA,CANTORE ANTONINO GENERALE,,8,bisett.,,,x,,,x,C8B25,MOZART
+PIAZZA,CAPITANERIA DEL PORTO,,1,trisett.,,x,,x,,x,C1T03,INGHAM
+PIAZZA,CAPO,piazzale antistante Chiesa della Mercede (spianata),1,giorn.,x,x,x,x,x,x,C1G09,STRAZZERI
+PIAZZA,CAPONNETTO (EX GIACHERY CARLO),,8,bisett.,,,x,,,x,C8B09,STRAZZERI
+VICOLO,CAPPELLIERI,,1,giorn.,x,x,x,x,x,x,C1G07,STRAZZERI
+VIA,CAPPUCCINELLE,Via Papireto - Via della Concezione,1,giorn.,x,x,x,x,x,x,C1G09,STRAZZERI
+VIA,CAPPUCCINELLE,P.tta D'Ossuna - Via Papireto,1,bisett.,x,,,x,,,C1B12,STRAZZERI
+VIA,CAPPUCCINELLE,Via della Concezione - Via Beati Paoli,1,giorn.,x,x,x,x,x,x,mercati,INGHAM -RD
+VICOLO,CAPRAIO,,1,sett.,,x,,,,,C1S09,CAMPISI
+VIA,CAPUANA LUIGI,,8,sett.,,,,,,x,C8S14,STRAZZERI
+PIAZZA,CARACCIOLO,,1,giorn.,x,x,x,x,x,x,mercati,INGHAM -RD
+DISCESA,CARACCIOLO VICERE',,1,giorn.,x,x,x,x,x,x,mercati,INGHAM -RD
+VIA,CARAVAGGIO,,8,sett.,,,x,,,,C8S32,MOZART
+CORTILE,CARDILLO,,1,sett.,,x,,,,,C1S09,CAMPISI
+VIA,CARDUCCI GIOSUE',P.pe di Villafranca - Libertà,8,trisett.,,x,,x,,x,C8T04,STRAZZERI
+VIA,CARELLA,,8,bisett.,,,x,,,x,C8B03,STRAZZERI
+VIA,CARINI,,8,bisett.,,,x,,,x,C8B30,STRAZZERI
+VICOLO,CARINI,,1,bisett.,,x,,,x,,C1B17,CAMPISI
+VIA,CARINI GIACINTO,,8,bisett.,,,x,,,x,C8B33,MOZART
+VIA,CARINI ISIDORO,,8,giorn.,x,x,x,x,x,x,C8G08,STRAZZERI
+LARGO,CARISSIMI GIAN GIACOMO,,8,sett.,,,x,,,,C8S27,MOZART
+VIA,CARNEVALE EMANUELE,,8,sett.,x,,,,,,C8S31,MOZART
+VIA,CARRETTIERI,,1,sett.,,x,,,,,C1S02,STRAZZERI
+PIAZZA,CASA PROFESSA,,1,giorn.,x,x,x,x,x,x,C1G15,CAMPISI
+VIA,CASA PROFESSA,,1,giorn.,x,x,x,x,x,x,C1G15,CAMPISI
+VICOLO,CASA PROFESSA,,1,bisett.,,,x,,,x,C1B20,CAMPISI
+PIAZZA,CASCINO ANTONINO GEN.,compreso parcheggio,8,trisett.,,x,,x,,x,C8T20,STRAZZERI
+VICOLO,CASE DI TROIA,,1,sett.,,x,,,,,C1S09,CAMPISI
+VIA,CASELLA ALFREDO,,8,sett.,,x,,,,,C8S26,MOZART
+FONDO,CASIGLIA,,8,bisett.,x,,,x,,,C8B10,STRAZZERI
+PIAZZA,CASSA DI RISPARMIO,,1,trisett.,,x,,x,,x,C1T07,INGHAM
+PIAZZA,CASSARELLI,,1,bisett.,,x,,,x,,C1B07,STRAZZERI
+VICOLO,CASSARELLI,,1,bisett.,,x,,,x,,C1B07,STRAZZERI
+VIA,CASSARI,,1,trisett.,,x,,x,,x,C1T08,STRAZZERI
+CORTILE,CASTELLANA,,8,sett.,x,,,,,,C8S19,MOZART
+SALITA,CASTELLANA,,1,sett.,,,,x,,,C1S04,STRAZZERI
+VIA,CASTELLANA BANDIERA,Rizzo - Peralta,8,sett.,,x,,,,,C8S18,STRAZZERI
+VIA,CASTELLANA BANDIERA,Peralta - Thaon De Revel,8,sett.,x,,,,,,C8S19,MOZART
+VIA,CASTELLO,Fratelli Orlando - Crispi,1,sett.,,,x,,,,C1S03,STRAZZERI
+VIA,CASTELLO,Fratelli Orlando - Squarcialupo,1,sett.,,,,x,,,C1S07,STRAZZERI
+PIAZZA,CASTELNUOVO,compreso palchetto della musica e tutti i tratti interni,8,giorn.,x,x,x,x,x,x,C8G03,STRAZZERI
+VICOLO,CASTELNUOVO,,1,bisett.,,,x,,,x,C1B18,CAMPISI
+VIA,CASTIGLIA BENEDETTO,,8,sett.,,,,x,,,C8S07,STRAZZERI
+VIA,CASTRIOTA GIORGIO,,8,trisett.,,x,,x,,x,C8T07,STRAZZERI
+VIA,CASTROFILIPPO,Del Sole - Riso,1,giorn.,x,x,x,x,x,x,C1G03,INGHAM
+VIA,CASTROFILIPPO,Alloro - Riso,1,bisett.,x,,,x,,,C1B01,INGHAM
+VIA,CATALANI ALFREDO,,8,sett.,,x,,,,,C8S26,MOZART
+VICOLO,CATALANO,,1,sett.,,,,x,,,C1S04,STRAZZERI
+CORTILE,CATANIA,,8,sett.,,,,,,x,C8S24,STRAZZERI
+VIA,CATANIA,Malaspina - Sammartino,8,bisett.,,x,,,x,,C8B27,STRAZZERI
+VIA,CATANIA,Libertà - Sammartino,8,bisett.,x,,,x,,,C8B26,STRAZZERI
+VICOLO,CATARO,,1,sett.,,,,,,x,C1S06,STRAZZERI
+VIA,CATTI MICHELE,,8,sett.,,,,x,,,C8S16,STRAZZERI
+PIAZZA,CATTOLICA,,1,giorn.,x,x,x,x,x,x,C1G04,INGHAM
+LARGO,CAVALIERI DEL S. SEPOLCRO,,1,giorn.,x,x,x,x,x,x,C1G16,CAMPISI
+LARGO,CAVALIERI DI MALTA,,1,trisett.,,x,,x,,x,C1T12,STRAZZERI
+VIA,CAVALLARI SAVERIO,,8,sett.,,,,x,,,C8S07,STRAZZERI
+VIA,CAVIGLIA MARESCIALLO,,8,sett.,,x,,,,,C8S08,MOZART
+VIA,CAVOUR CAMILLO,Ruggero Settimo - Roma,1,giorn.,x,x,x,x,x,x,C1G07,STRAZZERI
+VIA,CAVOUR CAMILLO,P.za XIII Vittime - Roma,1,trisett.,x,,x,,x,,C1T14,STRAZZERI
+VICOLO,CEFALA',,1,bisett.,x,,,x,,,C1B04,INGHAM
+VIA,CELESIA MICHELANGELO CARD.,,1,bisett.,x,,,x,,,C1B16,CAMPISI
+CORTLE,CELI,,1,bisett.,x,,,x,,,C1B01,INGHAM
+VICOLO,CELSO (2),,8,sett.,,x,,,,,C8S02,STRAZZERI
+VIA,CERDA,,8,trisett.,x,,x,,x,,C8T03,STRAZZERI
+VIA,CERVELLO NICOLO',,1,giorn.,x,x,x,x,x,x,C1G01,INGHAM
+VIA,CESAREO GIOVANNI ALFREDO,Pirandello - Leopardi,8,bisett.,x,,,x,,,C8B47,MOZART
+VIA,CESAREO GIOVANNI ALFREDO,Leopardi - Lo Jacono,8,bisett.,,,x,,,x,C8B49,MOZART
+VIA,CESAREO GIOVANNI ALFREDO,Lo Jacono - Sciuti,8,bisett.,,,x,,,x,C8B50,MOZART
+LARGO,CHERUBINI LUIGI,,8,sett.,,,x,,,,C8S27,MOZART
+VICOLO,CHIANCHE,,1,sett.,,,,,x,,C1S05,STRAZZERI
+VIA,CHIAPPARA AL CARMINE,,1,bisett.,,x,,,x,,C1B21,CAMPISI
+VIA,CHIARAMONTE GIOVANNI,,1,sett.,,,,,,x,C1S13,CAMPISI
+VICOLO,CHIARANDA,,1,sett.,,,x,,,,C1S10,CAMPISI
+VIA,CHIAVETTIERI,,1,trisett.,,x,,x,,x,C1T08,STRAZZERI
+PIAZZETTA,CHIESA DEI COCCHIERI,,1,bisett.,x,,,x,,,C1B04,INGHAM
+PIAZZA,CHINNICI ROCCO,,8,bisett.,x,,,x,,,C8B54,MOZART
+PIAZZA,CHOPIN FEDERICO,,8,bisett.,x,,,x,,,C8B51,MOZART
+VIA,CIACCIO FRANCESCO PAOLO,,8,sett.,,,,x,,,C8S10,MOZART
+VIA,CIANCIOLO FRATELLI,,1,sett.,,,x,,,,C1S03,STRAZZERI
+VICOLO,CICALA ANTONINO,,1,bisett.,x,,,x,,,C1B16,CAMPISI
+VIA,CICHE' GIUSEPPE,,8,bisett.,,,x,,,x,C8B12,STRAZZERI
+VIA,CILEA FRANCESCO,Paternò - Perosi,8,bisett.,,x,,,x,,C8B52,MOZART
+VIA,CILEA FRANCESCO,Perosi - Zandonai,8,bisett.,,,x,,,x,C8B55,MOZART
+VIA,CILEA FRANCESCO,Carissimi - Zandonai,8,sett.,,,,x,,,C8S28,MOZART
+VIA,CIMAROSA DOMENICO,,8,sett.,x,,,,,,C8S25,MOZART
+VIA,CIMBALI GIUSEPPE,A. Rizzo - Don Gnocchi,8,sett.,,x,,,,,C8S18,STRAZZERI
+VIA,CIMBALI GIUSEPPE,Don Gnocchi - Spedalieri,8,trisett.,,x,,x,,x,C8T22,STRAZZERI
+VICOLO,CIMINNITA,,1,sett.,,,,x,,,C1S11,CAMPISI
+CORTILE,CIPRIANI,,8,bisett.,x,,,x,,,C8B51,MOZART
+LARGO,CIRENE,,8,bisett.,,,x,,,x,C8B30,STRAZZERI
+VICOLO,CIRINO NATALE,,1,giorn.,x,x,x,x,x,x,C1G07,STRAZZERI
+LARGO,CIRRINCIONE ANDREA,,8,sett.,,,,x,,,C8S10,MOZART
+VIA,CIRRINCIONE ANDREA,Sampolo - Ferri,8,bisett.,,,x,,,x,C8B21,MOZART
+VIA,CIRRINCIONE ANDREA,Ferri - Sadat,8,sett.,,,,,,x,C8S11,MOZART
+VIA,CIULLO D'ALCAMO,,8,sett.,,,,x,,,C8S10,MOZART
+VIA,CIVILETTI BENEDETTO,,8,bisett.,,x,,,x,,C8B31,STRAZZERI
+VIA,CLUVERIO,,8,sett.,,,,,x,,C8S05,STRAZZERI
+VIA,COL DELLA BERRETTA,,8,bisett.,,,x,,,x,C8B40,MOZART
+PIAZZA,COLAJANNI NAPOLEONE,,1,bisett.,x,,,x,,,C1B13,CAMPISI
+VIA,COLLEGIO DI MARIA AL BORGO,Scinà - Bonomo,8,sett.,,x,,,,,C8S02,STRAZZERI
+VIA,COLLEGIO DI MARIA AL BORGO,Bonomo - Crispi,8,sett.,x,,,,,,C8S01,STRAZZERI
+VIA,COLLEGIO GIUSINO,,1,bisett.,x,,,x,,,C1B19,CAMPISI
+VIA,"COLLEGIO MARIA AL CARMINE
+(mercato)",,1,giorn.,x,x,x,x,x,x,mercati,INGHAM -RD
+VICOLO,COLLUZIO,,1,sett.,,,,,x,,C1S12,CAMPISI
+PIAZZA,COLONNA,,1,trisett.,,x,,x,,x,C1T12,STRAZZERI
+VIA,COLTELLIERI,,1,trisett.,,x,,x,,x,C1T12,STRAZZERI
+CORTILE,CONGREGAZIONE DEL VENERDI',,1,sett.,,,x,,,,C1S10,CAMPISI
+VICOLO,CONGREGAZIONE DEL VENERDI' (1),,1,sett.,,,x,,,,C1S10,CAMPISI
+VICOLO,CONTE CAGLIOSTRO,,1,sett.,,,x,,,,C1S16,CAMPISI
+PIAZZA,CONTE FEDERICO,,1,sett.,,,x,,,,C1S16,CAMPISI
+VICOLO,CONTE FEDERICO (PAL.REALE),,1,sett.,,,x,,,,C1S16,CAMPISI
+VIA,CONTE RUGGERO,,8,sett.,,,,x,,,C8S04,STRAZZERI
+VIA,CORDOVA FILIPPO,,8,giorn.,x,x,x,x,x,x,C8G11,MOZART
+VIA,CORELLI ARCANGELO,,8,sett.,,,x,,,,C8S27,MOZART
+VIA,CORLEO SIMONE,,8,trisett.,,x,,x,,x,C8T07,STRAZZERI
+VICOLO,CORPORA,,1,sett.,x,,,,,,C1S08,CAMPISI
+CORTILE,CORRAO,,8,bisett.,,,x,,,x,C8B30,STRAZZERI
+PASSAGGIO,CORSARO ITALO  già PASSAGGIO L. 1,,8,sett.,,,x,,,,C8S39,MOZART
+VIA,CORSELLI,,8,sett.,,x,,,,,C8S02,STRAZZERI
+VIA,COSENTINO GIUSEPPE,,8,sett.,,,,,x,,C8S29,MOZART
+VIA,COSTANTINO DOMENICO,Mattarella - Terrasanta,8,bisett.,x,,,x,,,C8B23,MOZART
+VIA,COSTANTINO DOMENICO,Terrasanta - oltre Di Maria,8,bisett.,,x,,,x,,C8B24,MOZART
+VIA,COSTANZO AURELIO,,8,sett.,,,,,,x,C8S14,STRAZZERI
+VIA,COZZO NARCISO,,8,trisett.,x,,x,,x,,C8T03,STRAZZERI
+VIA,CRESCENZIO ANTONIO,,8,bisett.,,x,,,x,,C8B11,STRAZZERI
+VIA,"CRISPIFRANCESCO (carreggiata lato
+monte)",P.pe di Belmonte - Collegio di Maria al Borgo,8,giorn.,x,x,x,x,x,x,C8G05,STRAZZERI
+PIAZZA,CRISPI FRANCESCO,compresi tutti gli interni,8,giorn.,x,x,x,x,x,x,C8G08,STRAZZERI
+VIA,CRISPI FRANCESCO,P.za XIII Vittime - S. Sebastiano - entrambe le carreggiate,1,sett.,,,x,,,,C1S03,STRAZZERI
+VIA,"CRISPI FRANCESCO(carreggiata lato
+monte)",P.pe di Belmonte - P.zza XIII Vittime,8,bisett.,x,,,x,,,C8B01,STRAZZERI
+VIA,"CRISPI FRANCESCO (carreggiata lato
+mare)",ACCESSO CAPITANERIA DI PORTO,8,bisett.,x,,,x,,,C8B01,STRAZZERI
+VIA,"CRISPI FRANCESCO (carreggiata lato
+mare)",Collegio di Maria al Borgo - accesso Capitaneria di Porto,8,giorn.,x,x,x,x,x,x,C8G05,STRAZZERI
+VIA,"CRISPI FRANCESCO (carreggiata lato
+mare)",Scinà - Collegio di Maria al Borgo,8,bisett.,x,,,x,,,C8B07,STRAZZERI
+VIA,"CRISPI FRANCESCO (carreggiata lato
+mare)",accesso Capitaneria di Porto - P.zza XIII Vittime,8,bisett.,x,,,x,,,C8B01,STRAZZERI
+VIA,"CRISPI FRANCESCO (carreggiata lato
+monte)",Scinà - Collegio di Maria al Borgo,8,bisett.,x,,,x,,,C8B07,STRAZZERI
+PIAZZA,CROCE DEI VESPRI,,1,giorn.,x,x,x,x,x,x,C1G04,INGHAM
+VIALE,CROCE ROSSA,Emilia- Vittorio Veneto,8,bisett.,,,x,,,x,C8B33,MOZART
+CORTILE,CROCIFERI,,1,bisett.,,x,,,x,,C1B02,INGHAM
+VIA,CUCCIA SIMONE,Libertà - Di Marco,8,bisett.,x,,,x,,,C8B41,MOZART
+VIA,CUCCIA SIMONE,Di Marco - Boris Giuliano,8,bisett.,,x,,,x,,C8B42,MOZART
+LARGO,CUCCO ALFREDO,,8,sett.,x,,,,,,C8S37,MOZART
+VIA,CUSIMANO,,8,sett.,x,,,,,,C8S01,STRAZZERI
+VIA,CUSMANO GIACOMO,,8,trisett.,x,,x,,x,,C8T05,STRAZZERI
+VIA,CUTELLI MARIO,,8,sett.,,,,,x,,C8S05,STRAZZERI
+CORTILE,D'ABBENE,,8,sett.,,,,,x,,C8S05,STRAZZERI
+VIA,D'ACQUISTO BENEDETTO,,8,bisett.,,x,,,x,,C8B31,STRAZZERI
+VICOLO,DADI,,1,trisett.,,x,,x,,x,C1T07,INGHAM
+VIA,DAIDONE,Faccio - Vasta,8,bisett.,,x,,,x,,C8B52,MOZART
+VIA,DAIDONE,Faccio - Giordano,8,bisett.,,,x,,,x,C8B53,MOZART
+VIA,DAITA GAETANO,,8,trisett.,x,,x,,x,,C8T06,STRAZZERI
+VIA,D'ALESSI GIUSEPPE,,1,giorn.,x,x,x,x,x,x,C1G15,CAMPISI
+VIA,DALIA,E. Ximenes - Delle Prigioni,8,sett.,,,,x,,,C8S04,STRAZZERI
+VIA,DALIA,Bassi - Ximenes,8,sett.,,,x,,,,C8S03,STRAZZERI
+VIA,D'ALIA ANTONINO,Autonomia Siciliana -Puglisi,8,sett.,,x,,,,,C8S08,MOZART
+VIA,DALLA CHIESA C. A. GEN.,,8,trisett.,x,,x,,x,,C8T09,STRAZZERI
+VIA,D'AMELIO MARIANO,da Cirrincione,8,sett.,,,,x,,,C8S10,MOZART
+VIA,D'AMELIO MARIANO,da Via Autonomia Siciliana,8,bisett.,x,,,x,,,C8B20,MOZART
+VIA,DAMIANI ALMEJDA,Mattarella - Terrasanta,8,bisett.,x,,,x,,,C8B23,MOZART
+VIA,DAMIANI ALMEJDA,Terrasanta - oltre Di Maria,8,bisett.,,x,,,x,,C8B24,MOZART
+VIA,DANEU ANTONIO,,8,sett.,,,,,x,,C8S17,STRAZZERI
+VIA,DANIELE FRANCESCO,,1,bisett.,x,,,x,,,C1B04,INGHAM
+VIA,D'ANNUNZIO GABRIELE,Unità D'Italia - Alfieri,8,bisett.,x,,,x,,,C8B44,MOZART
+VIA,D'ANNUNZIO GABRIELE,Alfieri - Libertà,8,bisett.,,,x,,,x,C8B43,MOZART
+VIA,DANTE,Sammartino - La Mantia,8,trisett.,x,,x,,x,,C8T05,STRAZZERI
+VIA,DANTE,Sammartino - P.za Castelnuovo,8,giorn.,x,x,x,x,x,x,C8G03,STRAZZERI
+VIA,D'APRILE CARLO,,8,sett.,,,,,x,,C8S05,STRAZZERI
+VIA,D'ASARO PIETRO,,8,bisett.,,,x,,,x,C8B28,STRAZZERI
+VIA,D'AZEGLIO MASSIMO,Don Bosco - Ugdulena,8,bisett.,,x,,,x,,C8B22,MOZART
+VIA,DE AMICIS EDMONDO,,8,bisett.,,,x,,,x,C8B19,MOZART
+VIA,DE COSMI GIOVANNI AGOSTINO,,8,trisett.,,x,,x,,x,C8T17,MOZART
+VIA,DE CRISTOFORIS TOMMASO MAGG,,8,bisett.,x,,,x,,,C8B17,STRAZZERI
+CORTILE,DE FRANCHI,,1,sett.,x,,,,,,C1S08,CAMPISI
+VICOLO,DE FRANCISCI,,1,bisett.,,,x,,,x,C1B05,INGHAM
+VIA,DE GREGORIO ANTONIO,,8,bisett.,x,,,x,,,C8B10,STRAZZERI
+VIA,DE LISI BENEDETTO,,1,giorn.,x,x,x,x,x,x,C1G07,STRAZZERI
+VIA,DE SALIBA ANTONIO,,8,sett.,,,x,,,,C8S32,MOZART
+VIA,DE SIMONE MARGHERITA,,8,sett.,x,,,,,,C8S13,STRAZZERI
+VIA,DE SPUCHES GIUSEPPE,Turrisi Colonna - Dante,8,bisett.,x,,,x,,,C8B29,STRAZZERI
+VIA,DE VIGILIA TOMMASO,,1,bisett.,x,,,x,,,C1B13,CAMPISI
+LARGO,DEGLI ABETI,,8,trisett.,x,,x,,x,,C8T15,STRAZZERI
+VICOLO,DEGLI AGONIZZANTI,,1,sett.,x,,,,,,C1S08,CAMPISI
+PIAZZETTA,DEGLI ANGELINI,,1,trisett.,x,,x,,x,,C1T14,STRAZZERI
+PIAZZA,DEGLI ARAGONESI,,1,trisett.,x,,x,,x,,C1T10,STRAZZERI
+PIAZZETTA,DEGLI ORFANI,,1,sett.,,,,,,x,C1S06,STRAZZERI
+VICOLO,DEGLI ORFANI,,1,sett.,,,,,,x,C1S06,STRAZZERI
+VIA,DEGLI ORTI,,8,bisett.,x,,,x,,,C8B17,STRAZZERI
+VIA,DEGLI SCALINI,,1,giorn.,x,x,x,x,x,x,C1G09,STRAZZERI
+VICOLO,DEGLI ZINGARI (2),,1,sett.,,,,,,x,C1S13,CAMPISI
+VIA,DEI BAMBINAI,,1,trisett.,,x,,x,,x,C1T12,STRAZZERI
+VIA,DEI BENEDETTINI,P.zza della Pinta - P.zza Mura Montalto,1,giorn.,x,x,x,x,x,x,C1G14,CAMPISI
+VICOLO,DEI BENEDETTINI,,1,sett.,,,,,,x,C1S13,CAMPISI
+DISCESA,DEI BIANCHI,,1,bisett.,,x,,,x,,C1B02,INGHAM
+PIAZZETTA,DEI BIANCHI,,1,bisett.,,x,,,x,,C1B02,INGHAM
+VIA,DEI BISCOTTARI,,1,bisett.,,x,,,x,,C1B17,CAMPISI
+VICOLO,DEI CALZONAI,,1,trisett.,,x,,x,,x,C1T08,STRAZZERI
+DISCESA,DEI CANDELAI,,1,sett.,,,,x,,,C1S04,STRAZZERI
+VIA,DEI CANTIERI,,8,trisett.,x,,x,,x,,C8T23,STRAZZERI
+ARCO,DEI CARTARI,,1,trisett.,,x,,x,,x,C1T07,INGHAM
+VIA,DEI CARTARI,,1,trisett.,,x,,x,,x,C1T07,INGHAM
+VICOLO,DEI CORRIERI,,1,trisett.,,x,,x,,x,C1T07,INGHAM
+VIA,DEI CREDENZIERI,,1,bisett.,x,,,x,,,C1B04,INGHAM
+VICOLO,DEI CROCIFERI (1),,1,bisett.,,x,,,x,,C1B02,INGHAM
+VICOLO,DEI CROCIFERI (2),,1,bisett.,,x,,,x,,C1B02,INGHAM
+VICOLO,DEI CROCIFISSARI,,1,sett.,,x,,,,,C1S02,STRAZZERI
+VIA,DEI FRANGIAI,,1,trisett.,,x,,x,,x,C1T08,STRAZZERI
+DISCESA,DEI GIOVENCHI,,1,trisett.,x,,x,,x,,C1T09,STRAZZERI
+DISCESA,DEI GIUDICI,P.za S. Anna - Roma,1,giorn.,x,x,x,x,x,x,C1G04,INGHAM
+DISCESA,DEI GIUDICI,P.za Bellini - Roma,1,giorn.,x,x,x,x,x,x,C1G16,CAMPISI
+VIA,DEI LEONI,,8,sett.,,,,x,,,C8S40,MOZART
+CORSO,DEI MILLE,Milano - Linconl,1,trisett.,x,,x,,x,,C1T04,INGHAM
+DISCESA,DEI MUSICI,,1,giorn.,x,x,x,x,x,x,C1G16,CAMPISI
+VIA,DEI NASSAIUOLI,,1,bisett.,,x,,,x,,C1B02,INGHAM
+VICOLO,DEI NASSAIUOLI,,1,bisett.,,x,,,x,,C1B02,INGHAM
+CORTILE,DEI PELLEGRINI,,1,trisett.,x,,x,,x,,C1T11,STRAZZERI
+VICOLO,DEI PIRRIATURI,,1,sett.,,x,,,,,C1S02,STRAZZERI
+PASSAGGIO,DEI POETI,solo imbocco su strada pubblica,8,bisett.,,,x,,,x,C8B46,MOZART
+VIA,DEI PRETI,,1,sett.,,,,x,,,C1S11,CAMPISI
+VIA,DEI SEGGETTIERI,,1,sett.,x,,,,,,C1S01,STRAZZERI
+PIAZZA,DEI TEDESCHI,,1,sett.,,,,,x,,C1S12,CAMPISI
+VIA,DEI TINTORI,,1,trisett.,,x,,x,,x,C1T08,STRAZZERI
+VIA,DEI TORNIERI,,1,trisett.,,x,,x,,x,C1T07,INGHAM
+SALITA,DEL BANDITORE,,1,sett.,,,,x,,,C1S17,CAMPISI
+VICOLO,DEL BARRILAIO,,1,bisett.,,x,,,x,,C1B07,STRAZZERI
+VIA,DEL BASTIONE,Cadorna - P.zza Vittoria,1,giorn.,x,x,x,x,x,x,C1G13,CAMPISI
+VIA,DEL BASTIONE,Cadorna - Dei Benedettini,1,giorn.,x,x,x,x,x,x,C1G14,CAMPISI
+VIA,DEL BERSAGLIERE,,8,trisett.,x,,x,,x,,C8T24,MOZART
+VIA,DEL BONO MICHELE,,8,bisett.,,,x,,,x,C8B06,STRAZZERI
+VIA,DEL BOSCO,,1,trisett.,x,,x,,x,,C1T01,CAMPISI
+VICOLO,DEL BOSCO,,1,trisett.,x,,x,,x,,C1T01,CAMPISI
+VICOLO,DEL CARMELO,,1,sett.,,,x,,,,C1S10,CAMPISI
+PIAZZA,DEL CARMINE (esterno mercato),,1,bisett.,,x,,,x,,C1B21,CAMPISI
+PIAZZA,DEL CARMINE (mercato),,1,giorn.,x,x,x,x,x,x,mercati,INGHAM -RD
+VIA,DEL CELSO,,1,bisett.,x,,,x,,,C1B19,CAMPISI
+VIA,DEL COMMERCIO,,8,bisett.,,,x,,,x,C8B06,STRAZZERI
+CORTILE,DEL CONVENTO,,1,trisett.,,x,,x,,x,C1T07,INGHAM
+CORTILE,DEL CORDARO,,1,giorn.,x,x,x,x,x,x,C1G08,STRAZZERI
+VICOLO,DEL CRIVELLARO,,1,sett.,,,x,,,,C1S16,CAMPISI
+VICOLO,DEL CROCIFISSO,,1,bisett.,,x,,,x,,C1B02,INGHAM
+VIA,DEL FERVORE,,8,bisett.,x,,,x,,,C8B29,STRAZZERI
+VIA,DEL FONDACO,,1,bisett.,x,,,x,,,C1B16,CAMPISI
+PIAZZETTA,DEL GIGLIO,,1,bisett.,,,x,,,x,C1B03,INGHAM
+VICOLO,DEL GIGLIO,,1,bisett.,,,x,,,x,C1B03,INGHAM
+VIA,DEL GIUDICE MICHELE,,1,bisett.,x,,,x,,,C1B13,CAMPISI
+CORTILE,DEL GIUOCO,,1,bisett.,,x,,,x,,C1B02,INGHAM
+VIA,DEL GRANATIERE,,8,trisett.,x,,x,,x,,C8T24,MOZART
+VIA,DEL LUME (interno Pretura),,1,,,,,,,,"strada privata
+chiusa",
+VIA,DEL MEDICO,,8,sett.,,,x,,,,C8S03,STRAZZERI
+VIA,DEL MONTE,,1,bisett.,,x,,,x,,C1B10,STRAZZERI
+CORTILE,DEL MUSICO,,1,bisett.,,,x,,,x,C1B18,CAMPISI
+CORTILE,DEL NOTARO,,1,sett.,x,,,,,,C1S08,CAMPISI
+VIA,DEL NOVIZIATO,P.zza Noviziato - Pagano,1,giorn.,x,x,x,x,x,x,C1G09,STRAZZERI
+VIA,DEL NOVIZIATO,Cappuccinelle - Noviziato,1,bisett.,x,,,x,,,C1B12,STRAZZERI
+CORTILE,DEL PALLONE,,1,bisett.,,x,,,x,,C1B02,INGHAM
+PIAZZETTA,DEL PALLONE,,1,bisett.,,x,,,x,,C1B02,INGHAM
+VIA,DEL PALLONE,,1,bisett.,,x,,,x,,C1B02,INGHAM
+VICOLO,DEL PALLONE,,1,bisett.,,x,,,x,,C1B02,INGHAM
+VIA,DEL PAPPAGALLO,,1,trisett.,,x,,x,,x,C1T06,INGHAM
+PIAZZA,DEL PARLAMENTO,(compreso grad. collegamento C.so Vitt. Emananuele),1,giorn.,x,x,x,x,x,x,C1G13,CAMPISI
+VIA,DEL PARLAMENTO,,1,trisett.,,x,,x,,x,C1T07,INGHAM
+PIAZZETTA,DEL PARLATOIO,,1,sett.,,,,x,,,C1S04,STRAZZERI
+VICOLO,DEL PINO,,1,sett.,,,,x,,,C1S11,CAMPISI
+VIA,DEL POETA,,1,sett.,,,,x,,,C1S07,STRAZZERI
+PIAZZA,DEL PONTICELLO,,1,bisett.,,,x,,,x,C1B20,CAMPISI
+VIA,DEL PROTONOTARO,,1,bisett.,,x,,,x,,C1B17,CAMPISI
+VIA,DEL QUARNARO,,8,sett.,x,,,,,,C8S37,MOZART
+VIA,DEL QUATTRO APRILE,,1,giorn.,x,x,x,x,x,x,C1G05,INGHAM
+PIAZZA,DEL RITIRO DI S.PIETRO,,1,sett.,,,,x,,,C1S17,CAMPISI
+VIA,DEL RITIRO DI S.PIETRO,,1,bisett.,x,,,x,,,C1B13,CAMPISI
+VICOLO,DEL ROMITO,,1,sett.,,,x,,,,C1S10,CAMPISI
+VLO,DEL S. UFFIZIO (V BUTERA),,1,bisett.,,,x,,,x,C1B05,INGHAM
+VICOLO,DEL SECCO,,1,sett.,,,,,,x,C1S06,STRAZZERI
+CORTILE,DEL SEMOLAIO,,1,sett.,,,,,x,,C1S12,CAMPISI
+VIA,DEL SOLE,,1,giorn.,x,x,x,x,x,x,C1G03,INGHAM
+CORTILE,DELLA CANNA,,1,bisett.,x,,,x,,,C1B19,CAMPISI
+PIAZZETTA,DELLA CANNA,,1,bisett.,x,,,x,,,C1B19,CAMPISI
+VICOLO,DELLA CASSETTA,,1,sett.,x,,,,,,C1S01,STRAZZERI
+VIA,DELLA CERA,B. Gravina - Scinà,8,sett.,,x,,,,,C8S02,STRAZZERI
+VICOLO,DELLA COLOMBA,,1,sett.,,,,x,,,C1S11,CAMPISI
+CORTILE,DELLA CONCEZIONE,,1,sett.,x,,,,,,C1S01,STRAZZERI
+PIAZZA,DELLA CONCEZIONE,,1,sett.,x,,,,,,C1S01,STRAZZERI
+VIA,DELLA CONCEZIONE,,1,sett.,x,,,,,,C1S01,STRAZZERI
+VIA,DELLA FAVORITA,,8,quind.,,,,,x,,C8Q02,MOZART
+CORTILE,DELLA GANCIA (1),,1,giorn.,x,x,x,x,x,x,C1G01,INGHAM
+CORTILE,DELLA GANCIA (2),,1,giorn.,x,x,x,x,x,x,C1G03,INGHAM
+CORTILE,DELLA GRAZIA,,1,sett.,x,,,,,,C1S08,CAMPISI
+VICOLO,DELLA GROTTA,,1,sett.,,,,x,,,C1S11,CAMPISI
+VICOLO,DELLA GUARDIOLA,,1,bisett.,,x,,,x,,C1B07,STRAZZERI
+VIA,DELLA INCORONAZIONE,,1,giorn.,x,x,x,x,x,x,C1G17,CAMPISI
+SALITA,DELLA INTENDENZA,,1,trisett.,,x,,x,,x,C1T06,INGHAM
+PIAZZA,DELLA KALSA,,1,giorn.,x,x,x,x,x,x,C1G01,INGHAM
+VIA,DELLA LIBERTA',Vittorio Veneto - Di Blasi,8,bisett.,x,,,x,,,C8B41,MOZART
+VIA,DELLA LIBERTA',Di Blasi - Gargallo,8,bisett.,,,x,,,x,C8B43,MOZART
+VIA,DELLA LIBERTA',Gargallo - Ariosto,8,bisett.,,x,,,x,,C8B45,MOZART
+VIA,DELLA LIBERTA',Ariosto - Notarbartolo,8,bisett.,,,x,,,x,C8B46,MOZART
+VIA,DELLA LIBERTA',Turati - Amari,8,giorn.,x,x,x,x,x,x,C8G06,STRAZZERI
+VIA,DELLA LIBERTA',P.za Mordini - Dante (bretella laterale lato monte),8,giorn.,x,x,x,x,x,x,C8G09,STRAZZERI
+VIA,DELLA LIBERTA',Notabartolo - P.za Mordini,8,giorn.,x,x,x,x,x,x,C8G09,STRAZZERI
+VIA,DELLA LIBERTA',Delegazione Comunale,8,giorn.,x,x,x,x,x,x,C8G09,STRAZZERI
+VIA,DELLA LIBERTA',Turati - P.zza Crispi (bretella laterale lato mare),8,giorn.,x,x,x,x,x,x,C8G07,STRAZZERI
+VIA,DELLA LOGGIA,,1,trisett.,,x,,x,,x,C1T08,STRAZZERI
+CORTILE,DELLA MERCEDE,,1,sett.,x,,,,,,C1S01,STRAZZERI
+PIAZZETTA,DELLA MESSINESE,,1,trisett.,x,,x,,x,,C1T05,INGHAM
+VICOLO,DELLA NEVE ALL'ALLORO,,1,trisett.,,x,,x,,x,C1T06,INGHAM
+PIAZZA,DELLA PACE,compreso slargo a ridosso di Via Archimede,8,bisett.,x,,,x,,,C8B07,STRAZZERI
+VICOLO,DELLA PALLA,,1,giorn.,x,x,x,x,x,x,C1G08,STRAZZERI
+P.TTA,DELLA PIETA',,1,giorn.,x,x,x,x,x,x,C1G01,INGHAM
+VICOLO,DELLA PILA,,1,bisett.,x,,,x,,,C1B12,STRAZZERI
+PIAZZA,DELLA PINTA,(compresa gradinata accesso Palazzo dei Normanni),1,giorn.,x,x,x,x,x,x,C1G14,CAMPISI
+VIA,DELLA REGIA ZECCA,,1,trisett.,,x,,x,,x,C1T06,INGHAM
+PIAZZA,DELLA RIVOLUZIONE,,1,trisett.,x,,x,,x,,C1T05,INGHAM
+VICOLO,DELLA RONDA,,1,bisett.,x,,,x,,,C1B12,STRAZZERI
+VIA,DELLA ROSA BIANCA,,1,bisett.,,x,,,x,,C1B07,STRAZZERI
+VICOLO,DELLA RUOTA,,1,sett.,,,,,x,,C1S05,STRAZZERI
+PIAZZETTA,DELLA SAPONERIA,,1,giorn.,x,x,x,x,x,x,mercati,INGHAM -RD
+VIA,DELLA SFERA,,1,bisett.,x,,,x,,,C1B12,STRAZZERI
+VIA,DELLA SPERANZA,,1,bisett.,x,,,x,,,C1B12,STRAZZERI
+VICOLO,DELLA STECCA,,8,sett.,,,x,,,,C8S03,STRAZZERI
+CORTILE,DELLA STUFA,,1,bisett.,x,,,x,,,C1B19,CAMPISI
+VIA,DELLA VETRIERA,,1,giorn.,x,x,x,x,x,x,C1G03,INGHAM
+VICOLO,DELLA VOLTA,,1,sett.,,x,,,,,C1S15,CAMPISI
+VIA,DELLA ZAGARA,,1,sett.,,,,,,x,C1S06,STRAZZERI
+VICOLO,DELL'ABBADIA,,1,sett.,x,,,,,,C1S01,STRAZZERI
+VICOLO,DELL'ALTARE,,1,bisett.,x,,,x,,,C1B12,STRAZZERI
+VIA,DELL'ALTARE (interno Pretura),,1,,,,,,,,"strada privata
+chiusa",
+CORTILE,DELL'ANELLO,,1,sett.,,x,,,,,C1S02,STRAZZERI
+VICOLO,DELL'ANELLO,,1,sett.,,x,,,,,C1S02,STRAZZERI
+VIA,DELL'ARCO,,8,bisett.,,x,,,x,,C8B11,STRAZZERI
+VICOLO,DELL'ARSENALE,,8,bisett.,,x,,,x,,C8B11,STRAZZERI
+VIA,DELL'ARSENALE (EX C. CRISTOFORO),P.zza Caponnetto - accesso porto,8,trisett.,x,,x,,x,,C8T23,STRAZZERI
+VIA,DELL'ARSENALE (EX C. CRISTOFORO),accesso porto - fine strada,8,bisett.,,x,,,x,,C8B11,STRAZZERI
+VIA,DELL'ARTIGLIERE,,8,bisett.,x,,,x,,,C8B32,MOZART
+VIA,DELL'AUTONOMIA SICILIANA,Ferri - Cascino,8,trisett.,,x,,x,,x,C8T20,STRAZZERI
+VIA,DELL'AUTONOMIA SICILIANA,bretella laterale tra Via D'Amelio e Via Morselli,8,bisett.,x,,,x,,,C8B20,MOZART
+VIALE,DELLE ALPI,Lazio - Aquileia (carreggiata lato Abruzzi),8,bisett.,,,x,,,x,C8B37,MOZART
+VIALE,DELLE ALPI,Lazio - Aquileia (carreggiata lato Aquileia),8,bisett.,,,x,,,x,C8B37,MOZART
+VIALE,DELLE ALPI,Lazio - P.pe di Paternò (entrambe le carreggiate),8,bisett.,x,,,x,,,C8B38,MOZART
+PIAZZETTA,DELLE API,,1,sett.,,,,,x,,C1S05,STRAZZERI
+VICOLO,DELLE API,Discesa Candelai - Vicolo Caldomai,1,sett.,,,,x,,,C1S04,STRAZZERI
+VICOLO,DELLE API,Spirito Santo - Discesa Candelai,1,sett.,,,,,x,,C1S05,STRAZZERI
+VIA,DELLE BALATE,,1,sett.,,,,,x,,C1S12,CAMPISI
+SALITA,DELLE BALATE (SCALINATA),,1,sett.,,,,,x,,C1S12,CAMPISI
+CORTILE,DELLE BISACCE,,1,sett.,x,,,,,,C1S14,CAMPISI
+DISCESA,DELLE CAPRE,,1,sett.,,,,,x,,C1S05,STRAZZERI
+VIA,DELLE CASE NUOVE,,1,trisett.,x,,x,,x,,C1T01,CAMPISI
+VIA,DELLE CROCI,Via Calvi - P.zza Crispi,8,giorn.,x,x,x,x,x,x,C8G08,STRAZZERI
+VIA,DELLE CROCI,Calvi - Remo Sandron,8,trisett.,,x,,x,,x,C8T08,STRAZZERI
+PIAZZETTA,DELLE DOGANE,,1,giorn.,x,x,x,x,x,x,C1G05,INGHAM
+VIA,DELLE LETTIGHE,,1,sett.,,,,,,x,C1S06,STRAZZERI
+VIALE,DELLE MAGNOLIE,Botticelli - Delle Alpi,8,sett.,,,,,,x,C8S35,MOZART
+VIALE,DELLE MAGNOLIE,Alpi - Sciuti,8,sett.,,,,x,,,C8S34,MOZART
+VIALE,DELLE MAGNOLIE,Boris Giuliano - Sciuti,8,bisett.,x,,,x,,,C8B39,MOZART
+VICOLO,DELLE MURA,,1,giorn.,x,x,x,x,x,x,C1G07,STRAZZERI
+VIA,DELLE PERGOLE,,1,bisett.,,x,,,x,,C1B21,CAMPISI
+VICOLO,DELLE PERGOLE,,1,sett.,,x,,,,,C1S09,CAMPISI
+VICOLO,DELLE RUOTE,,1,sett.,,,x,,,,C1S10,CAMPISI
+VIA,DELLE SCUOLE,,1,giorn.,x,x,x,x,x,x,C1G17,CAMPISI
+PIAZZETTA,DELLE SEDIE VOLANTI,,1,sett.,,,,,,x,C1S06,STRAZZERI
+VIA,DELLE SEDIE VOLANTI,,1,sett.,,,,,,x,C1S06,STRAZZERI
+PIAZZA,DELLE STIGMATE,,1,giorn.,x,x,x,x,x,x,C1G11,STRAZZERI
+VICOLO,DELLE TRAVI,,1,bisett.,,,x,,,x,C1B05,INGHAM
+PIAZZETTA,DELLE VERGINI,,1,sett.,,,,x,,,C1S04,STRAZZERI
+VICOLO,DELLE VERGINI,,1,sett.,,,,x,,,C1S04,STRAZZERI
+PIAZZETTA,DELLE VITTIME,,1,bisett.,x,,,x,,,C1B16,CAMPISI
+LARGO,DELL'ESEDRA,,8,bisett.,x,,,x,,,C8B41,MOZART
+DISCESA,DELL'ETERNITA',,1,sett.,,x,,,,,C1S02,STRAZZERI
+CORTILE,DELLO SPASIMO,,1,bisett.,,x,,,x,,C1B02,INGHAM
+VIA,DELLO SPASIMO,della Vetriera - P.zza Vittoria,1,giorn.,x,x,x,x,x,x,C1G01,INGHAM
+VIA,DELLO SPASIMO,Evola - della Vetriera,1,giorn.,x,x,x,x,x,x,C1G03,INGHAM
+VIA,DELLO SPEZIALE,P.pe di Scordia -Cusimano,8,sett.,,x,,,,,C8S02,STRAZZERI
+VIA,DELLO SPEZIALE,Cusimano - Crispi,8,sett.,x,,,,,,C8S01,STRAZZERI
+VIA,DELLO SPEZIO,Amari - Roma,8,bisett.,,,x,,,x,C8B06,STRAZZERI
+VIA,DELLO SPEZIO,Scinà - oltre Muzio,8,sett.,,x,,,,,C8S02,STRAZZERI
+VIA,DELLO SPIRITO SANTO,P.zza Monte di Pietà - S. Agostino,1,giorn.,x,x,x,x,x,x,C1G11,STRAZZERI
+VIA,DELLO SPIRITO SANTO,Candelai - Panneria,1,sett.,,,,,x,,C1S05,STRAZZERI
+VICOLO,DELLO ZINGARO,,1,bisett.,,x,,,x,,C1B17,CAMPISI
+PIAZZETTA,DELLO ZUCCHERO,,1,sett.,,,,,,x,C1S13,CAMPISI
+VICOLO,DELLO ZUCCHERO,,1,sett.,,,,,,x,C1S13,CAMPISI
+PIAZZA,DELL'ORIGLIONE,,1,giorn.,x,x,x,x,x,x,C1G17,CAMPISI
+VICOLO,DELL'ORIGLIONE,,1,bisett.,,x,,,x,,C1B17,CAMPISI
+CORTILE,DELL'ORSO,,1,sett.,x,,,,,,C1S14,CAMPISI
+SALITA,DELL'OSPEDALE,,1,sett.,,,,,x,,C1S12,CAMPISI
+VIA,DELL'UNIVERSITA',,1,giorn.,x,x,x,x,x,x,C1G16,CAMPISI
+VIA,DENTI DI PIRAINO SALV. AMM,,8,sett.,,x,,,,,C8S20,MOZART
+VIA,DI BARTOLO VINCENZO,,8,sett.,,,,x,,,C8S16,STRAZZERI
+VIA,DI BENEDETTO FRATELLI,,1,sett.,,x,,,,,C1S09,CAMPISI
+VIA,DI BLASI FRANCESCO PAOLO,,8,bisett.,,x,,,x,,C8B42,MOZART
+VIA,DI CARLO NICCOLO',,8,bisett.,,,x,,,x,C8B12,STRAZZERI
+VIA,DI CHIARA STEFANO,,8,sett.,,,,x,,,C8S16,STRAZZERI
+VIA,DI CRISTINA GIOVANNI,Mongitore - Tukory,1,bisett.,,x,,,x,,C1B14,CAMPISI
+PIAZZETTA,DI CRISTOFALO,,8,sett.,,,,,x,,C8S23,MOZART
+VIA,DI CRISTOFALO,,8,sett.,,,,,x,,C8S23,MOZART
+VIA,DI DIO ALFREDO E ANTONIO,,8,bisett.,x,,,x,,,C8B17,STRAZZERI
+VIA,DI GIORGIO ANTONINO GEN.,,8,trisett.,x,,x,,x,,C8T24,MOZART
+VIA,DI GIOVANNI ALESSIO,,8,bisett.,,x,,,x,,C8B42,MOZART
+VIA,DI GIOVANNI GIOVANNI,,8,bisett.,,,x,,,x,C8B06,STRAZZERI
+PIAZZETTA,DI GIOVANNI VINCENZO,,1,sett.,,,,x,,,C1S11,CAMPISI
+VIA,DI GREGORIO,,8,sett.,,,,,,x,C8S24,STRAZZERI
+VIA,DI LIBERTO F.SCO SAVERIO,,8,sett.,,,,x,,,C8S34,MOZART
+VIA,DI LORENZO TINA,,1,sett.,,,,x,,,C1S17,CAMPISI
+VIA,DI MARCO DOMENICO,,8,bisett.,x,,,x,,,C8B41,MOZART
+VIA,DI MARCO VINCENZO,Duca della Verdura - Streva,8,bisett.,,x,,,x,,C8B18,STRAZZERI
+VIA,DI MARCO VINCENZO,Gargallo - Streva,8,bisett.,,,x,,,x,C8B19,MOZART
+VIA,DI MARIA EUGENIO GEN.,Notarbartolo - Leanti,8,bisett.,,x,,,x,,C8B24,MOZART
+VIA,DI MARIA EUGENIO GEN.,Leanti - Cantore,8,bisett.,,,x,,,x,C8B25,MOZART
+VIA,DI MARIA EUGENIO GEN.,Parcheggio,8,bisett.,,x,,,x,,C8B24,MOZART
+VIA,DI MARZO GIOACCHINO,Sciuti - Leopardi,8,bisett.,,x,,,x,,C8B48,MOZART
+VIA,DI MARZO GIOACCHINO,Leopardi - Libertà,8,bisett.,,,x,,,x,C8B46,MOZART
+VIA,DI MENSA GIUSEPPE,,8,bisett.,,x,,,x,,C8B22,MOZART
+VIA,DI PAOLA ANTONINO  già VIA MN. 4,,8,sett.,,,,x,,,C8S10,MOZART
+VIA,DI STEFANO,,8,giorn.,x,x,x,x,x,x,C8G03,STRAZZERI
+PIAZZA,DIODORO SICULO,,8,trisett.,,x,,x,,x,C8T14,MOZART
+VIA,DIVISI,Maqueda - Roma,1,trisett.,x,,x,,x,,C1T01,CAMPISI
+VIA,DIVISI,Roma - P.zza Rivoluzione,1,trisett.,x,,x,,x,,C1T05,INGHAM
+VIA,DODICI GENNAIO,XX Settembre - Libertà,8,trisett.,x,,x,,x,,C8T10,STRAZZERI
+VIA,DODICI GENNAIO,P.pe di Villafranca - XX Settembre,8,trisett.,,x,,x,,x,C8T04,STRAZZERI
+CORTILE,DOMINICI(SCALINATA ),,1,sett.,,,,x,,,C1S04,STRAZZERI
+PIAZZA,DON BOSCO,D'Azeglio - Sampolo (lato Roccaforte),8,giorn.,x,x,x,x,x,x,C8G11,MOZART
+PIAZZA,DON BOSCO,"a meno del marciapiede lato Roccaforte tratto D'Azeglio -
+Sampolo",8,trisett.,x,,x,,x,,C8T19,MOZART
+VIA,DON GIOVANNI MINZONI,,8,bisett.,x,,,x,,,C8B20,MOZART
+VIA,DON GNOCCHI,Don Orione- Cimbali,8,sett.,,x,,,,,C8S18,STRAZZERI
+VIA,DON ORIONE,"Rizzo - Loria, carr. Dir. A. Rizzo",8,bisett.,,,x,,,x,C8B14,STRAZZERI
+VIA,DON ORIONE,"Rizzo - Loria, carr. dir. Dei Cantieri",8,bisett.,,,x,,,x,C8B14,STRAZZERI
+VIA,DON ORIONE,Rallo - Spedalieri,8,bisett.,,,x,,,x,C8B14,STRAZZERI
+VIA,DONIZETTI GAETANO,P.zza Verdi - Amico,1,trisett.,x,,x,,x,,C1T10,STRAZZERI
+VIA,DONIZETTI GAETANO,Amico - S. Agostino,1,sett.,,,,,x,,C1S05,STRAZZERI
+PIAZZA,D'ORLEANS ENRICO,,1,giorn.,x,x,x,x,x,x,C1G14,CAMPISI
+PIAZZETTA,D'OSSUNA,,1,bisett.,x,,,x,,,C1B12,STRAZZERI
+CORTILE,DRAGO,,8,sett.,,,,,,x,C8S14,STRAZZERI
+VIA,DUCA DELLA VERDURA,Libertà - Villabianca,8,giorn.,x,x,x,x,x,x,C8G10,STRAZZERI
+VIA,DUCA DELLA VERDURA,Villabianca - Sampolo,8,trisett.,x,,x,,x,,C8T09,STRAZZERI
+PIAZZA,DUE PALME,,1,giorn.,x,x,x,x,x,x,C1G06,STRAZZERI
+CORTILE,ECCE HOMO (V S.AGOSTINO),,1,sett.,,,,,,x,C1S06,STRAZZERI
+PIAZZA,EDISON TOMMASO,,8,bisett.,x,,,x,,,C8B41,MOZART
+VIALE,EMILIA,Empedocle Restivo - Ausonia (entrambe le carreggiate),8,bisett.,,x,,,x,,C8B34,MOZART
+VIALE,EMILIA,Ausonia - Croce Rossa (entrambe le carreggiate),8,bisett.,,,x,,,x,C8B33,MOZART
+VIA,EMPEDOCLE,Dalia - Archimede,8,sett.,,,,x,,,C8S04,STRAZZERI
+VIA,EMPEDOCLE,Dalia - Quintino Sella,8,sett.,,,x,,,,C8S03,STRAZZERI
+VICOLO,EMPEDOCLE,,8,sett.,,,x,,,,C8S03,STRAZZERI
+VIA,ENNA,,8,sett.,,,,x,,,C8S07,STRAZZERI
+VIA,ENZO ED ELVIRA SELLERIO,P.pe di Villafranca - Sammartino,8,trisett.,,x,,x,,x,C8T11,STRAZZERI
+VIA,EPICARMO,,1,bisett.,x,,,x,,,C1B09,STRAZZERI
+VIA,ERRICO SCIPIONE,,8,sett.,,,,,,x,C8S30,MOZART
+VIA,EVOLA FILIPPO,,1,trisett.,x,,x,,x,,C1T04,INGHAM
+VIA,FACCIO FRANCO,,8,bisett.,,x,,,x,,C8B52,MOZART
+PIAZZETTA,FAGIOLAI,,1,sett.,,x,,,,,C1S15,CAMPISI
+VICOLO,FAIA,,1,sett.,,,,,,x,C1S06,STRAZZERI
+CORTILE,FARINA,,1,sett.,,x,,,,,C1S09,CAMPISI
+VIA,FASTUCA,,1,sett.,,,,x,,,C1S11,CAMPISI
+VICOLO,FASTUCA,,1,sett.,,,,x,,,C1S11,CAMPISI
+VIA,FAVARA ALBERTO,,1,giorn.,x,x,x,x,x,x,C1G11,STRAZZERI
+VIA,FAZIO EMERICO,,8,bisett.,x,,,x,,,C8B20,MOZART
+PORTA,FELICE,,1,giorn.,x,x,x,x,x,x,C1G06,STRAZZERI
+VIA,FERMI ENRICO,Lancia di Brolo - Falcando,8,bisett.,x,,,x,,,C8B58,MOZART
+VIA,FERRARA FRANCESCO,Sammartino - Cusmano,8,sett.,,,,,,x,C8S06,STRAZZERI
+VIA,FERRARA FRANCESCO,Sammartino - P.pe di Villafranca,8,sett.,,,,x,,,C8S07,STRAZZERI
+VIA,FERRARIS GALILEO,,8,sett.,x,,,,,,C8S01,STRAZZERI
+VIA,FERRI FERDINANDO,,8,bisett.,x,,,x,,,C8B20,MOZART
+CORTILE,FERRO,,1,giorn.,x,x,x,x,x,x,C1G08,STRAZZERI
+VIA,FERRO LUZZI GIOVANNI,,8,bisett.,x,,,x,,,C8B10,STRAZZERI
+VIA,FIAMMETTA,,8,sett.,,x,,,,,C8S02,STRAZZERI
+VIA,FILANGERI GAETANO,,1,bisett.,x,,,x,,,C1B01,INGHAM
+VIA,FILETI ENRICO,,8,sett.,,x,,,,,C8S41,STRAZZERI
+VIA,FILIPPONE,,1,bisett.,x,,,x,,,C1B12,STRAZZERI
+VIA,FIRENZE,,1,bisett.,,,x,,,x,C1B20,CAMPISI
+VIA,FIUME,,1,trisett.,,x,,x,,x,C1T02,CAMPISI
+VICOLO,FIUME TORTO,,1,sett.,,x,,,,,C1S15,CAMPISI
+PIAZZA,FLORIO IGNAZIO,tutti i camminamenti interni alla villetta,8,giorn.,x,x,x,x,x,x,C8G04,STRAZZERI
+VIA,FOLENGO,,8,trisett.,,x,,x,,x,C8T04,STRAZZERI
+PIAZZA,FONDERIA,,1,trisett.,,x,,x,,x,C1T13,STRAZZERI
+VIA,FONDERIA ORETEA,,8,bisett.,,x,,,x,,C8B02,STRAZZERI
+CORTILE,FONTANA,,8,sett.,,,,,,x,C8S24,STRAZZERI
+VIA,FORLANINI CARLO,,1,bisett.,,x,,,x,,C1B14,CAMPISI
+RUA,FORMAGGI,,1,sett.,x,,,,,,C1S14,CAMPISI
+VICOLO,FORNO A S. AGATUZZA,,1,sett.,,,,,x,,C1S12,CAMPISI
+VIA,FORNO AGOSTINO,,1,sett.,,,,,x,,C1S05,STRAZZERI
+VIC,FORNO AI MAESTRI D'ACQUA,,1,bisett.,,,x,,,x,C1B03,INGHAM
+VICOLO,FORNO AL BORGO NUOVO,,8,sett.,,,x,,,,C8S03,STRAZZERI
+VICOLO,FORNO AL PALAZZO REALE,,1,sett.,,,,,x,,C1S12,CAMPISI
+VIA,FOSCOLO UGO,,8,bisett.,,,x,,,x,C8B43,MOZART
+VIA,FOSSI,P.zza B. Da Messina - Gulì Simone,8,bisett.,,,x,,,x,C8B12,STRAZZERI
+VIA,"FRA GIOVANNI PANTALEO (strada
+privata chiusa)",,8,,,,,,,,"strada privata
+chiusa",
+PIAZZA,"FRANCO FRANCHI E CICCIO
+INGRASSIA",,1,trisett.,x,,x,,x,,C1T09,STRAZZERI
+VIA,FRANZONI ANTONIO CAP.,"compreso scalinata collegamento con Via Imperatore
+Federico e tratto ad essa parallela",8,sett.,,,,x,,,C8S10,MOZART
+VIA,FRASCA POLARA PIETRO,,8,sett.,,,,x,,,C8S34,MOZART
+VIA,"FRATE PASQUALE SARULLO (strada
+privata chiusa)",,8,,,,,,,,"strada privata
+chiusa",
+LARGO,FRIULI,,8,sett.,,x,,,,,C8S38,MOZART
+VIA,FUDDUNI PIETRO,,1,sett.,,x,,,,,C1S02,STRAZZERI
+VIA,FUXA VINCENZO,,8,sett.,,,,x,,,C8S10,MOZART
+VICOLO,GAFFI,,1,sett.,,x,,,,,C1S09,CAMPISI
+VIA,GAGINI ANTONIO,,1,trisett.,,x,,x,,x,C1T12,STRAZZERI
+CORTILE,GAGLIANO,,1,sett.,,,,x,,,C1S07,STRAZZERI
+VIALE,GALILEO GALILEI,Lazio - Paternò,8,sett.,x,,,,,,C8S37,MOZART
+VIALE,GALILEO GALILEI,Borremans - Paternò,8,bisett.,x,,,x,,,C8B54,MOZART
+VIALE,GALILEO GALILEI,Da Vinci - Borremans,8,bisett.,,x,,,x,,C8B56,MOZART
+VIA,GALLIANO GIUSEPPE MAGG.,,8,bisett.,x,,,x,,,C8B17,STRAZZERI
+VICOLO,GALLO,,1,sett.,,,,x,,,C1S17,CAMPISI
+VIA,GALLO DOMENICO,,8,sett.,,x,,,,,C8S02,STRAZZERI
+VIA,GALLO NICOLO',,8,trisett.,x,,x,,x,,C8T06,STRAZZERI
+VIA,GARGALLO TOMMASO,,8,trisett.,,x,,x,,x,C8T17,MOZART
+VIA,GARIBALDI,Milano - Magione,1,trisett.,x,,x,,x,,C1T04,INGHAM
+VIA,GARIBALDI,P.zza Rivoluzione - Magione,1,trisett.,x,,x,,x,,C1T05,INGHAM
+PIAZZA,GARRAFFELLO,,1,trisett.,,x,,x,,x,C1T08,STRAZZERI
+VIA,GARRAFFELLO,,1,trisett.,,x,,x,,x,C1T08,STRAZZERI
+PIAZZETTA,GARRAFFO,,1,giorn.,x,x,x,x,x,x,mercati,INGHAM -RD
+VIA,GARZILLI NICCOLO',Siracusa - P.zza Mameli,8,trisett.,x,,x,,x,,C8T12,STRAZZERI
+VIA,GARZILLI NICCOLO',Messina - Siracusa,8,trisett.,,x,,x,,x,C8T11,STRAZZERI
+VIA,GARZILLI NICCOLO',XII Gennaio - Paternostro,8,trisett.,,x,,x,,x,C8T04,STRAZZERI
+VIA,GARZILLI NICCOLO',XII Gennaio - Messina,8,trisett.,x,,x,,x,,C8T10,STRAZZERI
+VICOLO,GATTUSO GIGINO,,1,bisett.,x,,,x,,,C1B09,STRAZZERI
+VICOLO,GELSOMINO,,1,sett.,,,,,,x,C1S13,CAMPISI
+VIA,GEMELLI CARLO,,1,bisett.,x,,,x,,,C1B01,INGHAM
+VIA,GEMMELLARO GIORGIO,,8,sett.,,,,,x,,C8S05,STRAZZERI
+CORTILE,GENOVA,,8,sett.,,x,,,,,C8S33,MOZART
+VIA,GENOVA,,1,bisett.,,,x,,,x,C1B20,CAMPISI
+PIAZZA,GENTILI ALBERICO,,8,giorn.,x,x,x,x,x,x,C8G10,STRAZZERI
+LARGO,GERACI BERNARDO,compresi tratti interni,8,sett.,,,,,x,,C8S36,MOZART
+VIA,GERACI BERNARDO,compreso slargo antistante Chiesa,8,sett.,,,,,,x,C8S35,MOZART
+LARGO,GERBASI MICHELE,,1,sett.,,,,,,x,C1S13,CAMPISI
+VIA,GERBASI ROSARIO,,8,sett.,x,,,,,,C8S01,STRAZZERI
+VIA,GERVASI NICOLO',,1,bisett.,,x,,,x,,C1B02,INGHAM
+VICOLO,GESU' E MARIA A PAL. REALE,,1,sett.,,,,,x,,C1S12,CAMPISI
+VIA,GESU' E MARIA AL PAPIRETO,,1,sett.,,x,,,,,C1S02,STRAZZERI
+VIA,GIACALONE,,1,giorn.,x,x,x,x,x,x,C1G08,STRAZZERI
+VIA,GIACCHINO MARIA  già VIA R. 23,,8,bisett.,,x,,,x,,C8B52,MOZART
+VIA,GIACHERY CARLO,,8,sett.,,,,,,x,C8S14,STRAZZERI
+VICOLO,GIANCOLA,,1,sett.,,x,,,,,C1S02,STRAZZERI
+VIA,GIANFERRARA,,1,bisett.,,,x,,,x,C1B11,STRAZZERI
+VIA,GIARDINACCIO,,1,sett.,x,,,,,,C1S08,CAMPISI
+VICOLO,GIARDINELLI AI TARTARI,,1,sett.,,x,,,,,C1S09,CAMPISI
+CORTILE,GIARRA ALL'OROLOGIO,,1,giorn.,x,x,x,x,x,x,C1G08,STRAZZERI
+VIA,GIBERTI GIAN MATTEO,,8,sett.,,,,,x,,C8S29,MOZART
+VIA,GIOENI,,1,bisett.,,x,,,x,,C1B10,STRAZZERI
+VIA,GIOIAMIA,,1,bisett.,,,x,,,x,C1B11,STRAZZERI
+VICOLO,GIOIAMIA,,1,sett.,,,,x,,,C1S11,CAMPISI
+VIA,GIORDANO CALCEDONIO,,8,sett.,,,,,,x,C8S24,STRAZZERI
+VIA,GIORDANO UMBERTO,Faccio - Paternò,8,bisett.,,x,,,x,,C8B52,MOZART
+VIA,GIORDANO UMBERTO,"Faccio - Notarbartolo (comprese tutte le bretelle laterali
+altezza Notarbartolo e Zandonai)",8,bisett.,,,x,,,x,C8B53,MOZART
+VIA,GIORGIO D'ANTIOCHIA,,8,sett.,,x,,,,,C8S20,MOZART
+VICOLO,GIORGIO IL GRECO,,1,sett.,,,,,,x,C1S06,STRAZZERI
+VIA,GIOTTO,Galilei - Regione Siciliana,8,bisett.,,x,,,x,,C8B56,MOZART
+VIA,GIOTTO,Ziino - Torricelli,8,sett.,,,x,,,,C8S27,MOZART
+VIA,GIOVANNI DA PROCIDA,,1,bisett.,,,x,,,x,C1B20,CAMPISI
+VIA,GIOVANNI DA VERRAZZANO,,8,sett.,,,,,,x,C8S14,STRAZZERI
+VIALE,GIULIANO BORIS,Magnolie - P.pe Di Paternò,8,bisett.,,,x,,,x,C8B40,MOZART
+VIALE,GIULIANO BORIS,Di Blasi - Paternò,8,bisett.,,x,,,x,,C8B42,MOZART
+VIA,GIUSEPPE L'INNOGRAFO,,8,sett.,,,,,x,,C8S29,MOZART
+VIA,GIUSTI GIUSEPPE,Leopardi - Pirandello,8,bisett.,x,,,x,,,C8B44,MOZART
+VIA,GIUSTI GIUSEPPE,Pirandello - Libertà,8,bisett.,,,x,,,x,C8B43,MOZART
+VIA,GIUSTI GIUSEPPE,Unità D'Italia - Sciuti,8,bisett.,,,x,,,x,C8B49,MOZART
+VIA,GOETHE,,8,trisett.,x,,x,,x,,C8T01,STRAZZERI
+VIA,GORIZIA,,1,trisett.,x,,x,,x,,C1T04,INGHAM
+VIA,GRADO,,8,sett.,x,,,,,,C8S37,MOZART
+PIAZZA,GRAN CANCELLIERE,,1,bisett.,,,x,,,x,C1B18,CAMPISI
+VICOLO,GRAN CANCELLIERE,,1,bisett.,,,x,,,x,C1B18,CAMPISI
+VIA,GRASSO GIOVANNI,Del Giudice - Schiavo,1,bisett.,x,,,x,,,C1B13,CAMPISI
+VIA,GRASSO GIOVANNI,P.zza del Carmine - Mignosi,1,sett.,,,x,,,,C1S10,CAMPISI
+VIA,GRASSO GIOVANNI,Schiavo - Mignosi,1,sett.,,x,,,,,C1S15,CAMPISI
+VIA,GRAVINA AMMIRAGLIO,P.pe di Scordia - Wagner,8,bisett.,x,,,x,,,C8B04,STRAZZERI
+VIA,GRAVINA AMMIRAGLIO,P.pe di Belmonte - Crispi,8,bisett.,,x,,,x,,C8B05,STRAZZERI
+VIA,GRAVINA BENEDETTO,,8,bisett.,x,,,x,,,C8B04,STRAZZERI
+PORTA,GRECI,,1,giorn.,x,x,x,x,x,x,C1G01,INGHAM
+VICOLO,GRECO,,1,trisett.,,x,,x,,x,C1T06,INGHAM
+VICOLO,GRIFOTTA,,1,bisett.,,,x,,,x,C1B05,INGHAM
+VIA,GUARDIONE FRANCESCO,Villaermosa - P.pe di Scordia,8,bisett.,,,x,,,x,C8B03,STRAZZERI
+VIA,GUARDIONE FRANCESCO,P.pe di Scordia - Crispi,8,bisett.,,x,,,x,,C8B02,STRAZZERI
+VIA,GUARINO AMELLA GIOVANNI,,8,trisett.,,x,,x,,x,C8T04,STRAZZERI
+VICOLO,GUASCONE,,1,sett.,x,,,,,,C1S08,CAMPISI
+VIA,GUCCIA,,1,bisett.,x,,,x,,,C1B12,STRAZZERI
+VICOLO,GUCCIA,,1,bisett.,x,,,x,,,C1B12,STRAZZERI
+VIA,GUCCIA GIOVAN BATTISTA,,8,giorn.,x,x,x,x,x,x,C8G02,STRAZZERI
+CORTILE,GUCCIARDI,,8,sett.,,,,,x,,C8S05,STRAZZERI
+VIA,GUIDO D'AREZZO,,8,bisett.,x,,,x,,,C8B38,MOZART
+VIA,GUIDO DELLE COLONNE,,1,sett.,,,x,,,,C1S16,CAMPISI
+VICOLO,GULI',,1,giorn.,x,x,x,x,x,x,C1G08,STRAZZERI
+VIA,GULI' SIMONE COM.,Dei Cantieri - C.le Acquasanta,8,trisett.,,x,,x,,x,C8T22,STRAZZERI
+VIA,GULI' SIMONE COM.,Cortile Acquasanta - Ammiraglio Rizzo,8,trisett.,,x,,x,,x,C8T21,STRAZZERI
+VIA,GUTTADAURO EMANUELE,,8,sett.,,x,,,,,C8S08,MOZART
+VIA,GUZZETTA PADRE GIORGIO,,1,sett.,,,,x,,,C1S07,STRAZZERI
+VIA,HOLM ADOLFO,Montuoro - Da Vinci,8,sett.,,,,,,x,C8S30,MOZART
+VIA,HOUEL,,8,trisett.,,x,,x,,x,C8T02,STRAZZERI
+VICOLO,IANNELLO,,1,bisett.,x,,,x,,,C1B04,INGHAM
+VIA,ILARDI PIETRO,,8,bisett.,,x,,,x,,C8B18,STRAZZERI
+VIA,IMMACOLATELLA,,1,trisett.,,x,,x,,x,C1T07,INGHAM
+VIA,IMPALLOMENI G. BATTISTA,,1,giorn.,x,x,x,x,x,x,C1G09,STRAZZERI
+VIA,IMPASTATO GIUSEPPE,,8,bisett.,x,,,x,,,C8B13,STRAZZERI
+VIA,IMPERATORE FEDERICO,,8,bisett.,,,x,,,x,C8B21,MOZART
+VICOLO,INFERMERIA DEI CAPPUCCINI,,1,bisett.,,x,,,x,,C1B17,CAMPISI
+VIA,INGRAO GIOVANNI TEN.,,8,sett.,,,,,x,,C8S05,STRAZZERI
+VICOLO,INGUAGGIATO,,1,sett.,x,,,,,,C1S14,CAMPISI
+VIA,ISNELLO,,1,trisett.,,x,,x,,x,C1T07,INGHAM
+VIA,ISONZO,,8,bisett.,,,x,,,x,C8B40,MOZART
+VIA,ISTRIA,,8,sett.,,x,,,,,C8S38,MOZART
+CORTILE,JUDICA,,1,sett.,,,,,,x,C1S06,STRAZZERI
+VIA,JUDICA,,1,trisett.,x,,x,,x,,C1T09,STRAZZERI
+VIA,JUNG GUIDO,,8,sett.,,x,,,,,C8S18,STRAZZERI
+VIA,JUVARA ALOISIO,Bagolino - Loria,8,sett.,,,,x,,,C8S16,STRAZZERI
+VIA,JUVARA ALOISIO,Rizzo - Loria,8,sett.,,,,,x,,C8S17,STRAZZERI
+VIA,JUVARA ALOISIO,Bagolino - Cantieri,8,bisett.,,x,,,x,,C8B11,STRAZZERI
+VIA,JUVARA FILIPPO,Goethe - Vitagliano,8,sett.,,,,,x,,C8S05,STRAZZERI
+VIA,LA FARINA GIUSEPPE,P.za Diodoro Siculo - P.pe di Villafranca,8,trisett.,,x,,x,,x,C8T13,STRAZZERI
+VIA,LA FARINA GIUSEPPE,Villafranca - P.za Mordini,8,trisett.,x,,x,,x,,C8T12,STRAZZERI
+VIA,LA GUMINA FRATELLI,,1,sett.,,,,x,,,C1S17,CAMPISI
+VIA,LA LUMIA ISIDORO,Amari - Sella,8,giorn.,x,x,x,x,x,x,C8G06,STRAZZERI
+VIA,LA LUMIA ISIDORO,Sella - Archimede,8,giorn.,x,x,x,x,x,x,C8G07,STRAZZERI
+VIA,LA LUMIA ISIDORO,Pepe - Archimede,8,trisett.,,x,,x,,x,C8T07,STRAZZERI
+VIA,LA MARMORA ALESSANDRO,,8,trisett.,x,,x,,x,,C8T19,MOZART
+VIA,LA MASA GIUSEPPE,Emerico Amari - Collegio di Maria al Borgo,8,bisett.,x,,,x,,,C8B04,STRAZZERI
+VIA,LA MASA GIUSEPPE,Stabile - Emerico Amari,8,bisett.,,x,,,x,,C8B05,STRAZZERI
+VICOLO,LA ROCCA ALLE CASE NUOVE,,1,sett.,,,x,,,,C1S10,CAMPISI
+VIA,LA ROSA MICHELE,,8,sett.,,x,,,,,C8S33,MOZART
+VIA,LA VILLA GIUSEPPE,,8,bisett.,x,,,x,,,C8B10,STRAZZERI
+CORTILE,LAMPEDUSA,,1,sett.,,,,x,,,C1S07,STRAZZERI
+VIA,LAMPEDUSA,,1,sett.,,,,x,,,C1S07,STRAZZERI
+VIA,LAMPIONELLI,,1,sett.,x,,,,,,C1S08,CAMPISI
+VICOLO,LAMPIONELLI,,1,sett.,x,,,,,,C1S08,CAMPISI
+VIA,LANCIA DI BROLO DOMENICO,Fermi - Campolo,8,bisett.,,,x,,,x,C8B57,MOZART
+VIA,LANDOLINA SAVERIO,,8,sett.,,,,,x,,C8S17,STRAZZERI
+VICOLO,LANZA,,1,bisett.,x,,,x,,,C1B04,INGHAM
+PIAZZETTA,LANZA ANGELINA,,1,bisett.,x,,,x,,,C1B09,STRAZZERI
+VIA,LATINI BRUNETTO,,8,trisett.,,x,,x,,x,C8T02,STRAZZERI
+VIA,LATTARINI,,1,giorn.,x,x,x,x,x,x,C1G04,INGHAM
+VIA,LATTARINI GRANDE,,1,giorn.,x,x,x,x,x,x,C1G04,INGHAM
+VIA,LAURANA FRANCESCO,Sampolo - Toselli,8,trisett.,x,,x,,x,,C8T16,STRAZZERI
+VIA,LAURANA FRANCESCO,Toselli - Villabianca,8,giorn.,x,x,x,x,x,x,C8G10,STRAZZERI
+VIA,LAURANA FRANCESCO,Di Marco - Villabianca,8,bisett.,,x,,,x,,C8B18,STRAZZERI
+VIA,LAURETO TOMMASO,,8,sett.,,,,x,,,C8S16,STRAZZERI
+VIALE,LAZIO,D'Arezzo - Restivo,8,trisett.,,x,,x,,x,C8T25,MOZART
+VIALE,LAZIO,Piemonte - Libertà,8,bisett.,,x,,,x,,C8B35,MOZART
+VIALE,LAZIO,Sciuti - Piemonte,8,bisett.,,x,,,x,,C8B36,MOZART
+SALITA,LE CHIAVI,,8,sett.,,,,,x,,C8S23,MOZART
+CORTILE,LE CHIAVI (1),,8,sett.,,,,,x,,C8S23,MOZART
+CORTILE,LE CHIAVI (2),,8,sett.,,,,,x,,C8S23,MOZART
+LARGO,LEANTI ARCANGELO,,8,bisett.,,,x,,,x,C8B25,MOZART
+VIA,LEANTI ARCANGELO,,8,bisett.,,,x,,,x,C8B25,MOZART
+VIA,LEHAR FRANZ,,8,sett.,x,,,,,,C8S37,MOZART
+PIAZZALE,LENNON JOHN,Capolinea AMAT,8,bisett.,,x,,,x,,C8B56,MOZART
+VIALE,LEONARDO DA VINCI,Ziino - Regione Siciliana,8,trisett.,x,,x,,x,,C8T28,MOZART
+VIA,LEONCAVALLO RUGGIERO,,8,sett.,,x,,,,,C8S26,MOZART
+VICOLO,LEONE,,1,sett.,,,,,,x,C1S13,CAMPISI
+PIAZZA,LEONI,,8,bisett.,x,,,x,,,C8B32,MOZART
+VIA,LEOPARDI GIACOMO,Notarbartolo - Cesareo,8,bisett.,x,,,x,,,C8B47,MOZART
+VIALE,LEOPARDI GIACOMO,Cesareo - Giusti,8,bisett.,x,,,x,,,C8B44,MOZART
+VIA,LEOTTA EUGENIO,,8,sett.,,,,,x,,C8S23,MOZART
+VIA,LETO ANTONINO,,8,bisett.,x,,,x,,,C8B29,STRAZZERI
+VICOLO,LETTIGHIERI,,1,giorn.,x,x,x,x,x,x,C1G07,STRAZZERI
+VIA,LI DONNI FERDINANDO,,8,bisett.,,x,,,x,,C8B31,STRAZZERI
+VICOLO,LI GUASTELLI ANNA,,1,sett.,x,,,,,,C1S08,CAMPISI
+VIA,LI VOLSI SCIPIONE,,8,sett.,,,,,x,,C8S05,STRAZZERI
+VIA,LIGURIA,Emilia - Brigata Verona,8,sett.,,,x,,,,C8S39,MOZART
+VIA,LINCOLN,C.so Dei Mille - Foro Umberto I,1,giorn.,x,x,x,x,x,x,C1G02,INGHAM
+CORTILE,LISIA,,1,sett.,,x,,,,,C1S15,CAMPISI
+VIA,LISZT FRANZ,,8,bisett.,x,,,x,,,C8B51,MOZART
+VIA,LIVORNO,,1,bisett.,,,x,,,x,C1B20,CAMPISI
+VICOLO,LO BIANCO,,1,bisett.,,,x,,,x,C1B05,INGHAM
+VIA,LO CASCIO TOMMASO,,8,sett.,,,,,,x,C8S14,STRAZZERI
+VIA,LO JACONO FRANCESCO,Rapisardi - Giusti,8,bisett.,,,x,,,x,C8B49,MOZART
+VIA,LO JACONO FRANCESCO,Notarbartolo - Rapisardi,8,bisett.,,x,,,x,,C8B48,MOZART
+VIA,LO JACONO FRANCESCO,Almejda - Notarbartolo,8,bisett.,x,,,x,,,C8B23,MOZART
+VICOLO,LO VECCHIO MATTEO,,1,sett.,,,,x,,,C1S17,CAMPISI
+CORTILE,LO VERDE (V R.MUZIO SALVO),,8,sett.,,x,,,,,C8S02,STRAZZERI
+VIA,LO VERDE GIACOMO,,8,sett.,x,,,,,,C8S31,MOZART
+VIA,LOMBARDI ELIODORO,,1,trisett.,,x,,x,,x,C1T12,STRAZZERI
+VIA,LOMBARDIA,,8,bisett.,x,,,x,,,C8B39,MOZART
+VICOLO,LOMBARDO,,1,bisett.,,x,,,x,,C1B17,CAMPISI
+VIA,LORIA RUGGERO,Juvara - Don Orione,8,bisett.,,,x,,,x,C8B14,STRAZZERI
+VIA,LORIA RUGGERO,Montepellegrino - Juvara,8,bisett.,,x,,,x,,C8B15,STRAZZERI
+VIA,LUCANIA,,8,sett.,,,x,,,,C8S39,MOZART
+CORTILE,LUCIA,,1,sett.,,,,,,x,C1S13,CAMPISI
+VIA,LUCIFORA GIOVANNI,,1,giorn.,x,x,x,x,x,x,C1G07,STRAZZERI
+VIA,LULLI GIOVAN BATTISTA,,8,trisett.,,x,,x,,x,C8T27,MOZART
+VIA,LUNGARINI,,1,bisett.,x,,,x,,,C1B04,INGHAM
+VICOLO,LUNGARINI,,1,bisett.,x,,,x,,,C1B04,INGHAM
+VICOLO,LUNGO (1),,1,giorn.,x,x,x,x,x,x,C1G09,STRAZZERI
+VIA,LUTHER KING MARTIN,,8,sett.,,,,,x,,C8S12,MOZART
+VIA,M. 40,,8,sett.,x,,,,,,C8S01,STRAZZERI
+DISCESA,MACCHERONAI,,1,giorn.,x,x,x,x,x,x,mercati,INGHAM -RD
+VICOLO,MADONNA,,1,sett.,,,x,,,,C1S10,CAMPISI
+VICOLO,MADONNA DEI TRAVICELLI,,1,giorn.,x,x,x,x,x,x,mercati,INGHAM -RD
+VICOLO,MADONNA DEL CASSARO,,1,trisett.,,x,,x,,x,C1T07,INGHAM
+CORTILE,MADONNA DELLA LETTERA,,1,bisett.,,,x,,,x,C1B18,CAMPISI
+ARCO,MADONNA DELLA VOLTA,,1,sett.,x,,,,,,C1S14,CAMPISI
+VICOLO,MADONNA DELLA VOLTA,,1,sett.,x,,,,,,C1S14,CAMPISI
+VIA,MADRE CARMELA PRESTIGIACOMO,,8,sett.,x,,,,,,C8S13,STRAZZERI
+VIA,MAESTRI D'ACQUA,,1,bisett.,,,x,,,x,C1B03,INGHAM
+VICOLO,MAESTRO CRISTOFARO,,1,sett.,,,,,,x,C1S06,STRAZZERI
+PIAZZA,MAGIONE,,1,giorn.,x,x,x,x,x,x,C1G03,INGHAM
+VIA,MAGIONE,,1,trisett.,x,,x,,x,,C1T04,INGHAM
+VIA,MAGLIOCCO VINCENZO GEN.,,8,giorn.,x,x,x,x,x,x,C8G01,STRAZZERI
+VIA,MAGNISI,,1,bisett.,,x,,,x,,C1B06,STRAZZERI
+VIA,MAIORANA,,8,giorn.,x,x,x,x,x,x,C8G01,STRAZZERI
+VIA,MAIORE FRANCESCO,,8,bisett.,x,,,x,,,C8B20,MOZART
+VIA,MAIRA ARTURO,,8,bisett.,x,,,x,,,C8B20,MOZART
+VIA,MAJALI GIULIANO,,1,bisett.,x,,,x,,,C1B13,CAMPISI
+CORTILE,MALASPINA,,8,sett.,,,x,,,,C8S27,MOZART
+PIAZZA,MALASPINA,,8,trisett.,x,,x,,x,,C8T28,MOZART
+VIA,MALASPINA,Tosti - Ziino,8,trisett.,,x,,x,,x,C8T27,MOZART
+VIA,MALASPINA,da FFSS a P.zza Virgilio,8,bisett.,,x,,,x,,C8B27,STRAZZERI
+VIA,MALETTO,P.zza S. Francesco - P.tta Resuttana,1,giorn.,x,x,x,x,x,x,C1G04,INGHAM
+VIA,MALETTO,Via Lungarini - P.tta Resuttana,1,bisett.,x,,,x,,,C1B04,INGHAM
+VIA,MALTA,,1,trisett.,,x,,x,,x,C1T07,INGHAM
+PIAZZA,MAMELI GOFFREDO,,8,trisett.,x,,x,,x,,C8T15,STRAZZERI
+VIA,MANDANICI PLACIDO,,8,bisett.,,,x,,,x,C8B53,MOZART
+VIA,MANIN,Libertà - Calvi,8,trisett.,,x,,x,,x,C8T07,STRAZZERI
+VIA,MANIN,Calvi - Orsini,8,bisett.,x,,,x,,,C8B10,STRAZZERI
+VIA,MANTEGNA ANDREA,,8,sett.,x,,,,,,C8S31,MOZART
+VIA,MANZONI ALESSANDRO,,1,bisett.,,,x,,,x,C1B03,INGHAM
+VIA,MAQUEDA,bretella laterale da Spinuzza a Via Bara all'Olivella,1,giorn.,x,x,x,x,x,x,C1G12,STRAZZERI
+VIA,MAQUEDA,Vittorio Emanuele - Cavour,1,giorn.,x,x,x,x,x,x,C1G12,STRAZZERI
+VIA,MAQUEDA,Calderai - Vittorio Emanuele,1,giorn.,x,x,x,x,x,x,C1G16,CAMPISI
+VIA,MAQUEDA,P.zza S. Antonino - Calderai,1,trisett.,x,,x,,x,,C1T01,CAMPISI
+VIA,MARABITTI,,8,sett.,,,x,,,,C8S15,STRAZZERI
+VIA,MARCELLO BENEDETTO,,8,sett.,x,,,,,,C8S25,MOZART
+PIAZZETTA,MARCHESE AREZZO,,1,giorn.,x,x,x,x,x,x,C1G16,CAMPISI
+PIAZZA,MARCHESE DI REGALMICI,due cantoni lato Politeama,8,giorn.,x,x,x,x,x,x,C8G01,STRAZZERI
+VIA,MARCHESE DI ROCCAFORTE,,8,giorn.,x,x,x,x,x,x,C8G11,MOZART
+VIALE,MARCHESE DI VILLABIANCA,Cordova - Alessi (corsia laterale lato monte Pellegrino),8,giorn.,x,x,x,x,x,x,C8G11,MOZART
+VIALE,MARCHESE DI VILLABIANCA,Alessi - Streva (corsia laterale lato monte Pellegrino),8,trisett.,,x,,x,,x,C8T17,MOZART
+VIALE,MARCHESE DI VILLABIANCA,Cordova - Streva (corsia laterale lato libertà),8,trisett.,,x,,x,,x,C8T17,MOZART
+VIALE,MARCHESE DI VILLABIANCA,Duca della Verdura - Streva,8,giorn.,x,x,x,x,x,x,C8G10,STRAZZERI
+VIA,MARCHESE UGO,Notarbartolo - Scalia,8,trisett.,x,,x,,x,,C8T15,STRAZZERI
+VIA,MARCHESE UGO,P.za Mordini - P.za Scalia,8,giorn.,x,x,x,x,x,x,C8G08,STRAZZERI
+VIA,MARCHESI SALVATORE,,8,bisett.,,,x,,,x,C8B50,MOZART
+VIA,MARCONI GUGLIELMO,Lolli - Cusmano,8,sett.,,,,,,x,C8S06,STRAZZERI
+VIA,MARCONI GUGLIELMO,Cusmano - Villafranca,8,bisett.,x,,,x,,,C8B29,STRAZZERI
+PIAZZA,MARINA,,1,giorn.,x,x,x,x,x,x,C1G05,INGHAM
+VICOLO,MARMI,,8,bisett.,,,x,,,x,C8B30,STRAZZERI
+VICOLO,MARMORAI,,1,sett.,,,,x,,,C1S11,CAMPISI
+VICOLO,MAROTTA,,1,bisett.,,,x,,,x,C1B18,CAMPISI
+VIA,MARSALA,,8,bisett.,x,,,x,,,C8B26,STRAZZERI
+VICOLO,MARTELLO,,1,sett.,,,,x,,,C1S17,CAMPISI
+VICOLO,MARTINEZ,,1,bisett.,,,x,,,x,C1B05,INGHAM
+VIA,MARTOGLIO NINO,,1,sett.,,,x,,,,C1S10,CAMPISI
+VIA,MARTURANO RUGGERO,Rizzo - Denti Di Piraino,8,sett.,,x,,,,,C8S20,MOZART
+VIA,MARTURANO RUGGERO,da Castellana Bandiera,8,sett.,x,,,,,,C8S19,MOZART
+VIA,MARVUGLIA VENANZIO,Bagolino - Loria,8,sett.,,,x,,,,C8S15,STRAZZERI
+VIA,MARVUGLIA VENANZIO,Impastato - Cantieri,8,bisett.,,x,,,x,,C8B11,STRAZZERI
+DISCESA,MASANIELLO,,1,trisett.,x,,x,,x,,C1T09,STRAZZERI
+VIA,MASCAGNI PIETRO,,8,sett.,,x,,,,,C8S26,MOZART
+VICOLO,MASSI,,1,sett.,,,,,x,,C1S12,CAMPISI
+VIA,MASTRANGELO RUGGERO,,1,sett.,x,,,,,,C1S08,CAMPISI
+VIA,MATERA FRANCESCO,,1,trisett.,,x,,x,,x,C1T13,STRAZZERI
+VIA,MATERASSAI,,1,bisett.,,x,,,x,,C1B07,STRAZZERI
+VIA,MATTARELLA PIERSANTI,(compreso villetta angolo via Nigra),8,trisett.,x,,x,,x,,C8T15,STRAZZERI
+VICOLO,MAZZARESI,,1,bisett.,,x,,,x,,C1B02,INGHAM
+VIA,MAZZINI,,8,giorn.,x,x,x,x,x,x,C8G07,STRAZZERI
+VIA,MECCIO SALVATORE,,8,bisett.,,x,,,x,,C8B31,STRAZZERI
+PIAZZA,MELI GIOVANNI,,1,giorn.,x,x,x,x,x,x,C1G06,STRAZZERI
+VIA,MELI GIOVANNI,P.za Meli - V.lo Cassarelli,1,giorn.,x,x,x,x,x,x,C1G06,STRAZZERI
+VIA,MELI GIOVANNI,P.za S. Domenico - P.za Meli,1,giorn.,x,x,x,x,x,x,C1G06,STRAZZERI
+VIA,MERLO,,1,trisett.,,x,,x,,x,C1T06,INGHAM
+PIAZZA,MESCHITA,,1,sett.,x,,,,,,C1S08,CAMPISI
+VICOLO,MESCHITA,,1,sett.,x,,,,,,C1S08,CAMPISI
+VIA,MESSINA,,8,trisett.,x,,x,,x,,C8T10,STRAZZERI
+VIA,MEUCCI ANTONIO,,8,sett.,,,x,,,,C8S27,MOZART
+VICOLO,MEZZANI,,1,trisett.,,x,,x,,x,C1T08,STRAZZERI
+VICOLO,MEZZOJUSO,,1,bisett.,,,x,,,x,C1B03,INGHAM
+VIA,MIGLIACCIO MARIANO,Da Vinci - Escrivà,8,bisett.,,,x,,,x,C8B57,MOZART
+VIA,MIGLIACCIO MARIANO,Escrivà - Scobar,8,sett.,,,,,x,,C8S29,MOZART
+VIA,MIGNOSI PIETRO,,1,sett.,,,x,,,,C1S10,CAMPISI
+VIA,MILANO,,1,bisett.,,,x,,,x,C1B03,INGHAM
+VIA,MIRA GIOVANNI,,1,sett.,,,x,,,,C1S10,CAMPISI
+CORTILE,MIRABELLA,,1,sett.,,,,,,x,C1S06,STRAZZERI
+VIA,MIRAGLIA MICHELE,Amari - P.pe di Belmonte,8,bisett.,,x,,,x,,C8B05,STRAZZERI
+VIA,MIRAGLIA MICHELE,tratto con accesso da via Stabile,8,bisett.,,x,,,x,,C8B02,STRAZZERI
+VIA,MOBILIERI,,1,sett.,,,,,x,,C1S05,STRAZZERI
+VIA,MOLINARI BERNARDINO,,8,sett.,,,,x,,,C8S28,MOZART
+VIA,MOLISE,,8,sett.,,,x,,,,C8S39,MOZART
+VICOLO,MONACELLI,,1,sett.,x,,,,,,C1S01,STRAZZERI
+VIA,MONDINI RAFFAELLO,,8,bisett.,,x,,,x,,C8B18,STRAZZERI
+VIA,MONGERBINO,D'Arezzo - Zappalà,8,bisett.,x,,,x,,,C8B38,MOZART
+VIA,MONGERBINO,Zappala - Delle Alpi,8,sett.,,,,,,x,C8S35,MOZART
+VIA,MONGITORE ANTONINO,,1,bisett.,,,x,,,x,C1B15,CAMPISI
+VIA,MONTALBO,Montepellegrino - Da Messina,8,bisett.,,,x,,,x,C8B16,STRAZZERI
+VIA,MONTALBO,Da Messina - Barca,8,giorn.,x,x,x,x,x,x,mercati,INGHAM -RD
+VIA,MONTALBO,Barca - Gulì Simone,8,bisett.,,,x,,,x,C8B12,STRAZZERI
+PIAZZA,MONTE DI PIETA',,1,giorn.,x,x,x,x,x,x,C1G11,STRAZZERI
+VIA,MONTE ERCTA,S. Rosalia alla Statua - Belvedere,8,trisett.,,x,,x,,x,C8T30,PARTANNA
+VIA,MONTE LE MERLE,,8,bisett.,,,x,,,x,C8B40,MOZART
+PIAZZA,MONTE S.ROSALIA,,1,sett.,,,,x,,,C1S07,STRAZZERI
+VIA,MONTE S.ROSALIA,,1,sett.,,,,x,,,C1S07,STRAZZERI
+CORTILE,MONTECHIARO (1),,8,sett.,,,,,,x,C8S24,STRAZZERI
+CORTILE,MONTECHIARO (2),,8,sett.,,,,,,x,C8S24,STRAZZERI
+PIAZZETTA,MONTELEONE,,1,bisett.,x,,,x,,,C1B09,STRAZZERI
+VIA,MONTELEONE,,1,bisett.,x,,,x,,,C1B09,STRAZZERI
+VICOLO,MONTELEONE (1),,1,bisett.,x,,,x,,,C1B09,STRAZZERI
+VICOLO,MONTELEONE (2),,1,bisett.,x,,,x,,,C1B09,STRAZZERI
+VIA,MONTELLO,,8,bisett.,x,,,x,,,C8B41,MOZART
+VIA,MONTENERO,,8,sett.,,,,x,,,C8S40,MOZART
+VIA,MONTEPELLEGRINO,Petrocelli - Cantieri,8,bisett.,,,x,,,x,C8B16,STRAZZERI
+VIA,MONTEPELLEGRINO,Cantieri - Ruggero Loria,8,bisett.,,,x,,,x,C8B16,STRAZZERI
+VIA,MONTEPELLEGRINO,"Cascino - Petrocelli/Loria compresa area pedonale
+altezza Via Angiò",8,bisett.,,x,,,x,,C8B15,STRAZZERI
+PIAZZETTA,MONTESANTO,,1,bisett.,,,x,,,x,C1B03,INGHAM
+VIA,MONTESANTO,,1,bisett.,,,x,,,x,C1B03,INGHAM
+VIA,MONTEVERDI CLAUDIO,,8,sett.,x,,,,,,C8S25,MOZART
+PIAZZA,MONTEVERGINI,,1,giorn.,x,x,x,x,x,x,C1G15,CAMPISI
+VIA,MONTEVERGINI,,1,bisett.,x,,,x,,,C1B19,CAMPISI
+VIA,MONTISORO GIORGIO,,8,giorn.,x,x,x,x,x,x,C8G09,STRAZZERI
+VIA,MONTUORO RINALDO,Holm-Lancia di Brolo,8,sett.,,,,,x,,C8S29,MOZART
+PIAZZA,MORDINI ANTONIO,,8,giorn.,x,x,x,x,x,x,C8G08,STRAZZERI
+CORTILE,MORELLA (PEDONALE),,1,sett.,,x,,,,,C1S15,CAMPISI
+VIA,MORELLO NUNZIO,"Cesareo - Rapisardi (compresa villetta tra Via Marchesi e
+Via Cesareo)",8,bisett.,,,x,,,x,C8B50,MOZART
+VIA,MORELLO NUNZIO,Rapisardi - Notarbartolo,8,bisett.,,x,,,x,,C8B48,MOZART
+VIA,MORELLO NUNZIO,Almejda - Notarbartolo,8,bisett.,x,,,x,,,C8B23,MOZART
+VICOLO,MORI,,1,sett.,,,,x,,,C1S04,STRAZZERI
+VICOLO,MORICI,,8,sett.,,,,x,,,C8S04,STRAZZERI
+PIAZZETTA,MORO ALDO,,8,giorn.,x,x,x,x,x,x,C8G02,STRAZZERI
+VIA,MORSELLI EMANUELE,,8,bisett.,x,,,x,,,C8B20,MOZART
+VIA,MOSCATELLO PIETRO,,8,sett.,x,,,,,,C8S09,MOZART
+VIA,MOSTACCI IACOPO,,8,sett.,,,,,x,,C8S29,MOZART
+VIA,MOZART WOLFGANG AMADEUS,,8,sett.,,x,,,,,C8S33,MOZART
+VIA,MP. 4,,8,sett.,x,,,,,,C8S31,MOZART
+PIAZZETTA,MULINO A VENTO,,8,bisett.,,,x,,,x,C8B06,STRAZZERI
+VIA,MUNTER FEDERICO,,8,sett.,x,,,,,,C8S31,MOZART
+VIA,MURA DELLA LUPA,,1,giorn.,x,x,x,x,x,x,C1G05,INGHAM
+GRADIN.,MURA DELLE CATTIVE,Porta Felice - Salita Mura delle Cattive,1,bisett.,,,x,,,x,C1B05,INGHAM
+SALITA,MURA DELLE CATTIVE,,1,giorn.,x,x,x,x,x,x,C1G01,INGHAM
+VIA,MURA DI PORTA CARINI,Papireto - Del Noviziato,1,giorn.,x,x,x,x,x,x,C1G09,STRAZZERI
+VIA,MURA DI PORTA CARINI,Impallomeni - Porta Carini,1,giorn.,x,x,x,x,x,x,C1G09,STRAZZERI
+VIA,MURA DI PORTA MONTALTO,,1,bisett.,,x,,,x,,C1B14,CAMPISI
+VIA,MURA DI SAN VITO,,1,trisett.,x,,x,,x,,C1T10,STRAZZERI
+VICOLO,MURANA,,8,sett.,,,,x,,,C8S04,STRAZZERI
+VIA,MUSCO ANGELO,,1,sett.,,,x,,,,C1S10,CAMPISI
+VICOLO,MUZIO (PAL.REALE),,1,sett.,,,,x,,,C1S17,CAMPISI
+CORTILE,MUZIO (PALAZZO REALE),,1,sett.,,,,x,,,C1S17,CAMPISI
+VIA,MUZIO SALVO ROSINA,,8,sett.,,x,,,,,C8S02,STRAZZERI
+VIA,NAPOLI,Roma - Teatro Biondo,1,giorn.,x,x,x,x,x,x,C1G12,STRAZZERI
+VIA,NAPOLI,Maqueda - Teatro Biondo,1,trisett.,x,,x,,x,,C1T09,STRAZZERI
+PIAZZA,NAPOLI FRANCESCO,,8,bisett.,,x,,,x,,C8B31,STRAZZERI
+PIAZZA,NASCE' FRANCESCO,,8,giorn.,x,x,x,x,x,x,C8G07,STRAZZERI
+VIA,NASELLI GIOVAN BATTISTA,,8,sett.,,,,x,,,C8S10,MOZART
+VIA,NASI NUNZIO,,1,sett.,,,x,,,,C1S16,CAMPISI
+VIA,NASO GIOVANNI,,1,giorn.,x,x,x,x,x,x,mercati,INGHAM -RD
+LARGO,NATOLI LUCIANA già VIA Z. 85,,8,bisett.,,x,,,x,,C8B27,STRAZZERI
+VIA,NATOLI LUIGI,,8,bisett.,,,x,,,x,C8B25,MOZART
+VIA,NICASTRO GUSTAVO AMM.,,8,sett.,,,x,,,,C8S21,MOZART
+PIAZZA,NICOSIA ANGELO,,8,bisett.,x,,,x,,,C8B39,MOZART
+VIA,NIGRA COSTANTINO,Salinas - P.pe di Villafranca,8,bisett.,,,x,,,x,C8B25,MOZART
+VIA,NIGRA COSTANTINO,P.pe di Villafranca - Garzilli,8,trisett.,x,,x,,x,,C8T15,STRAZZERI
+VICOLO,NISCEMI,,1,bisett.,,,x,,,x,C1B05,INGHAM
+VICOLO,NOCE,,1,sett.,x,,,,,,C1S14,CAMPISI
+VIA,NOTARBARTOLO EMANUELE,"Ziino - Boiardo (compresa bretella laterale Malaspina -
+Respighi)",8,trisett.,,x,,x,,x,C8T27,MOZART
+VIA,NOTARBARTOLO EMANUELE,Libertà - Boiardo,8,giorn.,x,x,x,x,x,x,C8G12,MOZART
+VIA,NOTO,,8,bisett.,,,x,,,x,C8B25,MOZART
+PIAZZA,NOVELLI PIETRO,,1,bisett.,,x,,,x,,C1B17,CAMPISI
+VIA,NOVELLI PIETRO,,1,bisett.,,x,,,x,,C1B17,CAMPISI
+PIAZZA,NOVIZIATO,,1,bisett.,x,,,x,,,C1B12,STRAZZERI
+VICOLO,NUOVO,,1,sett.,,,,x,,,C1S11,CAMPISI
+CORTILE,OLIVELLA,,1,bisett.,x,,,x,,,C1B09,STRAZZERI
+PIAZZA,OLIVELLA,,1,giorn.,x,x,x,x,x,x,C1G08,STRAZZERI
+VIA,OMODEI FRANCESCO,,8,bisett.,,x,,,x,,C8B08,STRAZZERI
+VIA,ONORATO,,8,bisett.,,x,,,x,,C8B02,STRAZZERI
+VIA,ONUFRIO ENRICO,,8,bisett.,,,x,,,x,C8B50,MOZART
+LARGO,ORCEL GIOVANNI,,8,trisett.,,x,,x,,x,C8T22,STRAZZERI
+VIA,ORECCHIO,,8,bisett.,,x,,,x,,C8B02,STRAZZERI
+VIA,ORLANDO DIEGO,,1,sett.,,,,x,,,C1S17,CAMPISI
+VIA,ORLANDO FRATELLI,,1,sett.,,,x,,,,C1S03,STRAZZERI
+PIAZZA,ORLANDO VITTORIO EMANUELE,compreso portici,1,giorn.,x,x,x,x,x,x,C1G10,STRAZZERI
+PIAZZA,ORLANDO VITTORIO EMANUELE,"C.so F. Aprile - Turrisi (entrambe le carreggiate
+sopraelevate)",1,trisett.,x,,x,,x,,C1T11,STRAZZERI
+VIA,OROLOGIO,,1,giorn.,x,x,x,x,x,x,C1G08,STRAZZERI
+VIA,ORSINI VINCENZO,Delle Croci - Albanese,8,bisett.,x,,,x,,,C8B10,STRAZZERI
+VIA,ORTOLANI EMANUELE,,8,bisett.,,,x,,,x,C8B12,STRAZZERI
+VIA,OSPIZIO DI BENEFICENZA,,8,giorn.,x,x,x,x,x,x,C8G02,STRAZZERI
+VIA,OTTAVIO D'ARAGONA,,8,bisett.,,,x,,,x,C8B03,STRAZZERI
+LARGO,P.P. 1,,1,bisett.,x,,,x,,,C1B16,CAMPISI
+VIA,PACINOTTI ANTONIO,entrambe le carreggiate,8,bisett.,x,,,x,,,C8B58,MOZART
+VIA,PADRE GIORDANO CASCINI,,8,trisett.,x,,x,,x,,C8T29,PARTANNA
+VIA,PAGANINI NICCOLO',,8,sett.,x,,,,,,C8S25,MOZART
+VIA,PAGANO GIOVAN BATTISTA,,1,giorn.,x,x,x,x,x,x,C1G09,STRAZZERI
+VIA,PAIS ETTORE,,8,sett.,x,,,,,,C8S01,STRAZZERI
+VIA,PAISIELLO GIOVANNI,Regione Siciliana - Galilei,8,sett.,,,x,,,,C8S32,MOZART
+VIA,PAISIELLO GIOVANNI,Galilei - P.pe di Palagonia,8,sett.,,x,,,,,C8S33,MOZART
+VICOLO,PALAGONIA ALL'ALLORO,,1,trisett.,,x,,x,,x,C1T06,INGHAM
+VIA,PALESTRA,,8,sett.,,,,,x,,C8S23,MOZART
+VICOLO,PALMENTIERI,,1,giorn.,x,x,x,x,x,x,C1G08,STRAZZERI
+VICOLO,PANDOLFINI,,8,sett.,,,,x,,,C8S40,MOZART
+VIA,PANNERIA,,1,trisett.,x,,x,,x,,C1T09,STRAZZERI
+VIA,PANNIERI,,1,trisett.,,x,,x,,x,C1T08,STRAZZERI
+VICOLO,PANORMITA,,1,giorn.,x,x,x,x,x,x,C1G15,CAMPISI
+VIA,PANTALEONE RODRIGO,,8,sett.,x,,,,,,C8S09,MOZART
+VIA,PANTELLERIA,,1,trisett.,,x,,x,,x,C1T12,STRAZZERI
+VIA,PAOLO VI PAPA,,8,sett.,,,,x,,,C8S22,MOZART
+VIA,PAOLUCCI DE CALBOLI FULCERI,,8,bisett.,,,x,,,x,C8B25,MOZART
+VIA,PAPAS GAETANO PETROTTA,,8,sett.,,,,x,,,C8S04,STRAZZERI
+PIAZZA,PAPIRETO,compresa scalinata di collegamento con Via Papireto,1,bisett.,,,x,,,x,C1B11,STRAZZERI
+VIA,PAPIRETO,,1,trisett.,x,,x,,x,,C1T11,STRAZZERI
+PIAZZALE,"PAPPALARDO SALVATORE
+CARDINALE",,8,trisett.,x,,x,,x,,C8T29,PARTANNA
+VIA,PARDI CARMELO,,1,trisett.,x,,x,,x,,C1T04,INGHAM
+LARGO,PARINI GIUSEPPE (strada privata chiusa),,8,,,,,,,,"strada privata
+chiusa",
+VICOLO,PARISI (V GIARDINACCIO),,1,sett.,x,,,,,,C1S08,CAMPISI
+VIA,PARISI ENRICO,,8,trisett.,x,,x,,x,,C8T10,STRAZZERI
+VIA,PARROCCHIA DEI TARTARI,,1,sett.,,x,,,,,C1S09,CAMPISI
+SALITA,PARTANNA,,1,giorn.,x,x,x,x,x,x,C1G05,INGHAM
+VIA,PASCOLI GIOVANNI,,8,bisett.,,,x,,,x,C8B49,MOZART
+LARGO,PASQUALINO FRANCESCO,,8,bisett.,,x,,,x,,C8B31,STRAZZERI
+VIA,PASQUALINO FRANCESCO,,8,bisett.,,,x,,,x,C8B12,STRAZZERI
+VIA,PASUBIO,,8,bisett.,x,,,x,,,C8B41,MOZART
+VIA,PATANIA GIUSEPPE,,1,bisett.,x,,,x,,,C1B09,STRAZZERI
+VICOLO,PATERNA,,1,trisett.,,x,,x,,x,C1T08,STRAZZERI
+VICOLO,PATERNO',,1,sett.,,,,x,,,C1S04,STRAZZERI
+VIA,PATERNOSTRO ALESSANDRO,,1,giorn.,x,x,x,x,x,x,C1G04,INGHAM
+VIA,PATERNOSTRO PAOLO,Via P.pe di Villafranca - P.zza Castelnuovo,8,trisett.,,x,,x,,x,C8T04,STRAZZERI
+VIA,PATERNOSTRO PAOLO,P.za Amendola - Via P.pe di Villafranca,8,trisett.,,x,,x,,x,C8T02,STRAZZERI
+VIA,PATTI FILIPPO,,1,bisett.,,x,,,x,,C1B06,STRAZZERI
+VIA,PATUANO,,8,sett.,x,,,,,,C8S01,STRAZZERI
+VIA,PAVIA,,1,sett.,,x,,,,,C1S09,CAMPISI
+PASSAGGIO,PECORAINO LORENZO,,8,sett.,,,,,,x,C8S11,MOZART
+VIA,PECORARO ANTONINO LOMBARDO,,8,bisett.,,,x,,,x,C8B50,MOZART
+VICOLO,PENNINELLO,,1,sett.,,,,x,,,C1S11,CAMPISI
+VIA,PEPE FLORESTANO,,8,trisett.,,x,,x,,x,C8T07,STRAZZERI
+VIA,PERALTA GUGLIELMO,,8,sett.,,x,,,,,C8S20,MOZART
+PIAZZA,PERANNI DOMENICO,,1,bisett.,,,x,,,x,C1B11,STRAZZERI
+VIA,PERGOLESI GIOVAN BATTISTA,,8,sett.,,x,,,,,C8S33,MOZART
+VIA,PEROSI LORENZO,,8,bisett.,x,,,x,,,C8B51,MOZART
+VIA,PERSANO AMMIRAGLIO,Loria - oltre Arena,8,sett.,x,,,,,,C8S13,STRAZZERI
+VIA,PERSANO AMMIRAGLIO,accesso da via Madre Carmela Prestigiacomo,8,sett.,x,,,,,,C8S13,STRAZZERI
+VICOLO,PESACANNONE,,1,sett.,,,,,,x,C1S13,CAMPISI
+VIA,PETRARCA FRANCESCO,,8,bisett.,,,x,,,x,C8B46,MOZART
+VIA,PETROCELLI BIAGIO,,8,bisett.,,,x,,,x,C8B16,STRAZZERI
+VIA,PIANO DELL'UCCIARDONE,Via Scinà - P.zza Giachery,8,bisett.,,,x,,,x,C8B09,STRAZZERI
+VIA,PIANO DELL'UCCIARDONE,Carreggiata di sosta lato porto,8,bisett.,,,x,,,x,C8B09,STRAZZERI
+VIA,PIAZZI GIUSEPPE,,8,sett.,,,,,,x,C8S06,STRAZZERI
+VIA,PIEDILEGNO,,8,sett.,,,,x,,,C8S40,MOZART
+VIALE,PIEMONTE,,8,bisett.,,,x,,,x,C8B40,MOZART
+VIA,PIER DELLE VIGNE,,8,bisett.,,x,,,x,,C8B08,STRAZZERI
+VIA,PIER LUIGI DA PALESTRINA,,8,sett.,,,x,,,,C8S27,MOZART
+VICOLO,PIETA' A PALAZZO REALE,Tesauro - Albergheria,1,sett.,,x,,,,,C1S15,CAMPISI
+VICOLO,PIETA' A PALAZZO REALE,Nasi - Tesauro F.P.,1,sett.,,,x,,,,C1S16,CAMPISI
+VICOLO,PIETA' A S.ONOFRIO,,1,sett.,,,,,x,,C1S05,STRAZZERI
+VIA,PIGNATELLI ARAGONA,,8,bisett.,,,x,,,x,C8B30,STRAZZERI
+VICOLO,PILICELLI,,1,sett.,x,,,,,,C1S01,STRAZZERI
+VIA,PILO ROSOLINO,,8,trisett.,x,,x,,x,,C8T03,STRAZZERI
+VICOLO,PIPITONE,,8,sett.,,,,,,x,C8S24,STRAZZERI
+VIA,PIPITONE FEDERICO GIUSEPPE,Leopardi - Morello,8,bisett.,,,x,,,x,C8B49,MOZART
+VIA,PIPITONE FEDERICO GIUSEPPE,Leopardi - Petrarca,8,bisett.,x,,,x,,,C8B47,MOZART
+VIA,PIPITONE FEDERICO GIUSEPPE,Petrarca - Libertà,8,bisett.,,x,,,x,,C8B45,MOZART
+VIA,PIRAINO LETO ANGELO,Cirrincione - Autonomia Siciliana,8,sett.,x,,,,,,C8S09,MOZART
+VIA,PIRANDELLO LUIGI,,8,bisett.,,x,,,x,,C8B45,MOZART
+VIA,PISA,,1,bisett.,,,x,,,x,C1B03,INGHAM
+VICOLO,PISTONE,,1,sett.,,,,,,x,C1S13,CAMPISI
+VIA,PIZZETTI ILDEBRANDO,,8,sett.,,x,,,,,C8S26,MOZART
+VIA,PIZZUTO,,1,bisett.,,,x,,,x,C1B08,STRAZZERI
+VIA,PLATEN AUGUSTO,,8,sett.,,,,,,x,C8S30,MOZART
+VIA,POLA,,1,sett.,,x,,,,,C1S09,CAMPISI
+VIA,PONTICELLO,,1,giorn.,x,x,x,x,x,x,C1G15,CAMPISI
+PIAZZA,PORRETTI,,8,sett.,x,,,,,,C8S13,STRAZZERI
+VIA,PORRETTI,,8,sett.,x,,,,,,C8S13,STRAZZERI
+PIAZZA,PORTA CARINI,,1,trisett.,x,,x,,x,,C1T10,STRAZZERI
+VIA,PORTA CARINI,,1,giorn.,x,x,x,x,x,x,mercati,INGHAM -RD
+VIA,PORTA DI CASTRO,,1,bisett.,x,,,x,,,C1B16,CAMPISI
+VIA,PORTA DI MAZZARA,,1,sett.,,,,,,x,C1S13,CAMPISI
+PIAZZETTA,PORTA GUCCIA,,1,trisett.,x,,x,,x,,C1T11,STRAZZERI
+PIAZZA,PORTA MONTALTO,compreso tratto fino a Corso Tukory,1,giorn.,x,x,x,x,x,x,C1G14,CAMPISI
+P.tta,PORTA REALE,,1,giorn.,x,x,x,x,x,x,C1G02,INGHAM
+VIA,PORTA S.AGATA,,1,bisett.,,x,,,x,,C1B21,CAMPISI
+VIA,PORTO SALVO,,1,trisett.,,x,,x,,x,C1T13,STRAZZERI
+CORTILE,"POZZO (VLO PIPITONE,56)",,8,sett.,,,,,,x,C8S24,STRAZZERI
+VIA,PRATI GIOVANNI,,8,bisett.,x,,,x,,,C8B47,MOZART
+VIA,PRESTINARI CARLO GEN.,,1,bisett.,,,x,,,x,C1B15,CAMPISI
+PIAZZA,PRETORIA,,1,giorn.,x,x,x,x,x,x,C1G16,CAMPISI
+VIA,PRIGIONI,,8,sett.,,,,x,,,C8S04,STRAZZERI
+VIA,PRINCIPE DI BELMONTE,Ruggero Settimo - Wagner,8,giorn.,x,x,x,x,x,x,C8G01,STRAZZERI
+VIA,PRINCIPE DI BELMONTE,Crispi - P.pe di Scordia,8,bisett.,,x,,,x,,C8B05,STRAZZERI
+VIA,PRINCIPE DI BELMONTE,Wagner - P.pe di Scordia,8,giorn.,x,x,x,x,x,x,C8G04,STRAZZERI
+VIA,PRINCIPE DI GRANATELLI,Ruggero Settimo - Wagner,8,giorn.,x,x,x,x,x,x,C8G01,STRAZZERI
+VIA,PRINCIPE DI GRANATELLI,La Masa - Wagner,8,bisett.,,x,,,x,,C8B05,STRAZZERI
+VIA,PRINCIPE DI PALAGONIA,Paternò - Cucco,8,sett.,x,,,,,,C8S37,MOZART
+VIA,PRINCIPE DI PALAGONIA,Mozart - Paternò,8,bisett.,x,,,x,,,C8B51,MOZART
+VIA,PRINCIPE DI PALAGONIA,Malaspina - Mozart,8,bisett.,,,x,,,x,C8B55,MOZART
+LARGO,PRINCIPE DI PATERNO',,8,sett.,,,,x,,,C8S34,MOZART
+VIA,PRINCIPE DI PATERNO',Regione Siciliana - Galilei,8,sett.,,,x,,,,C8S32,MOZART
+VIA,PRINCIPE DI PATERNO',Galilei - Liszt,8,sett.,,x,,,,,C8S33,MOZART
+VIA,PRINCIPE DI PATERNO',Zappalà - Sciuti,8,bisett.,x,,,x,,,C8B51,MOZART
+VIA,PRINCIPE DI PATERNO',Sciuti - Libertà,8,trisett.,,x,,x,,x,C8T26,MOZART
+VIA,PRINCIPE DI RESUTTANA,,1,bisett.,x,,,x,,,C1B04,INGHAM
+VIA,PRINCIPE DI S.GIUSEPPE,,1,sett.,,,,,x,,C1S05,STRAZZERI
+VIA,PRINCIPE DI SCORDIA,Collegio di Maria al Borgo - P.pe di Belmonte,8,bisett.,x,,,x,,,C8B04,STRAZZERI
+VIA,PRINCIPE DI SCORDIA,Collegio di Maria al Borgo - Scinà,8,bisett.,,,x,,,x,C8B06,STRAZZERI
+VIA,PRINCIPE DI SCORDIA,"P.pe di Granatelli - P.pe di Belmonte (perimetro P.zza
+Florio)",8,bisett.,,x,,,x,,C8B05,STRAZZERI
+VIA,PRINCIPE DI SCORDIA,Cavour - P.pe di Granatelli,8,bisett.,,,x,,,x,C8B03,STRAZZERI
+VIA,PRINCIPE DI VILLAFRANCA,Nigra - Siracusa,8,trisett.,x,,x,,x,,C8T12,STRAZZERI
+VIA,PRINCIPE DI VILLAFRANCA,Dante - Messina,8,trisett.,x,,x,,x,,C8T10,STRAZZERI
+VIA,PRINCIPE DI VILLAFRANCA,Dante - Paternostro,8,trisett.,,x,,x,,x,C8T04,STRAZZERI
+VIA,PRINCIPE DI VILLAFRANCA,Siracusa - Messina,8,trisett.,,x,,x,,x,C8T11,STRAZZERI
+VIA,PRINCIPE DI VILLAFRANCA,S. Oliva - Paternostro,8,giorn.,x,x,x,x,x,x,C8G02,STRAZZERI
+VIA,PUCCINI GIACOMO,,8,sett.,,,x,,,,C8S27,MOZART
+VIA,PUGLIA,,8,bisett.,,x,,,x,,C8B34,MOZART
+VIA,PUGLIA GIUSEPPE MARIO,,1,sett.,x,,,,,,C1S14,CAMPISI
+VIA,PUGLISI BERTOLINO GIUSEPPE,,8,giorn.,x,x,x,x,x,x,C8G06,STRAZZERI
+VIA,PUGLISI SALVATORE,da Via Alessi ad oltre Via Di Dio,8,sett.,,x,,,,,C8S08,MOZART
+VIA,PUGLISI SALVATORE,da Via Bono a Via Alessi,8,sett.,,x,,,,,C8S08,MOZART
+VIA,QUARTARARO GIUSEPPE,,1,sett.,,,,,x,,C1S12,CAMPISI
+VIA,QUATTRO CORONATI,Scippateste - Cappuccinelle,1,sett.,x,,,,,,C1S01,STRAZZERI
+VIA,QUATTRO CORONATI (interno Pretura),Pagano - Scippateste,1,,,,,,,,"strada privata
+chiusa",
+PIAZZA,QUATTRO NOVEMBRE,,8,bisett.,,,x,,,x,C8B40,MOZART
+VIA,QUINTA CASA,,8,bisett.,,x,,,x,,C8B11,STRAZZERI
+VIA,RABIN ISAAC,,8,sett.,,,,,x,,C8S12,MOZART
+SALITA,RAFFADALI,,1,giorn.,x,x,x,x,x,x,C1G15,CAMPISI
+VIA,RAFFAELE GIOVANNI,,8,bisett.,x,,,x,,,C8B10,STRAZZERI
+VIA,RAFFAELLO,,8,sett.,,,x,,,,C8S32,MOZART
+VIA,RAGUSA,,8,sett.,,,,x,,,C8S07,STRAZZERI
+VIA,RAGUSA LITTORE,,8,bisett.,,,x,,,x,C8B33,MOZART
+VICOLO,RAGUSI,,1,bisett.,,,x,,,x,C1B18,CAMPISI
+VIA,RAIMONDO FRANCESCO,,1,giorn.,x,x,x,x,x,x,C1G11,STRAZZERI
+VIA,RALLO ALBERTO,,8,trisett.,,x,,x,,x,C8T22,STRAZZERI
+SALITA,RAMIREZ,,1,sett.,,,,x,,,C1S11,CAMPISI
+VIA,RAMONDETTI FILETI CONCETT.,,1,giorn.,x,x,x,x,x,x,C1G07,STRAZZERI
+VIA,RAMPOLLA MARIANO CARD.,Bonanno - Inizio slargo,8,quind.,,,,,x,,C8Q02,MOZART
+VIA,RAMPOLLA MARIANO CARD.,"dal civ. 10 pressi fermata Amat a Via Belmonte (compresi
+tutti i tratti interni)",8,sett.,,,,x,,,C8S22,MOZART
+VIA,RANDAZZO CAMILLO,,8,bisett.,,x,,,x,,C8B24,MOZART
+VIA,RAO CARLO,Pardi - Magione (parcheggio),1,trisett.,x,,x,,x,,C1T04,INGHAM
+VIA,RAO CARLO,Lincoln - Pardi,1,trisett.,x,,x,,x,,C1T04,INGHAM
+VIA,RAPISARDI MARIO,Pecoraro - Morello,8,bisett.,,,x,,,x,C8B50,MOZART
+VIA,RAPISARDI MARIO,Leopardi - Morello,8,bisett.,,,x,,,x,C8B49,MOZART
+VIA,RAPISARDI MARIO,P.zza Boccaccio - Libertà,8,bisett.,,x,,,x,,C8B45,MOZART
+VIA,RAPISARDI MARIO,P.zza Boccaccio - Leopardi,8,bisett.,x,,,x,,,C8B47,MOZART
+VIA,RE FEDERICO,Dante - Villa Florio,8,bisett.,,,x,,,x,C8B28,STRAZZERI
+CORTILE,REGINA,,1,giorn.,x,x,x,x,x,x,C1G08,STRAZZERI
+VIALE,REGIONE SICILIANA N.O.,Paternò - Lazio (carr. lat. dir. TP),8,quind.,,,,,x,,C8Q01,MOZART
+VIALE,REGIONE SICILIANA N.O.,De Saliba - Paternò,8,quind.,,,,,x,,C8Q01,MOZART
+VIALE,REGIONE SICILIANA N.O.,Da Vinci - De Saliba,8,quind.,,,,,x,,C8Q01,MOZART
+VIALE,REGIONE SICILIANA N.O.,Da Vinci - Sauro,8,sett.,,,,,,x,C8S30,MOZART
+VIA,REQUISENZ,,8,sett.,,,x,,,,C8S03,STRAZZERI
+VIA,RESPIGHI OTTORINO,,8,sett.,x,,,,,,C8S25,MOZART
+VIA,RESTIVO EMPEDOCLE,Sardegna - Lazio (compreso tratto laterale Emilia-Marche),8,trisett.,,x,,x,,x,C8T25,MOZART
+PIAZZA,RESTIVO FRANCO,,8,bisett.,,,x,,,x,C8B40,MOZART
+PIAZZETTA,RESUTTANA,,1,bisett.,x,,,x,,,C1B04,INGHAM
+VIA,RICASOLI,Libertà - P.zza Nascè,8,trisett.,x,,x,,x,,C8T06,STRAZZERI
+VIA,RICCARDO DA S. GERMANO,compreso slargo altezza Carnevale,8,sett.,x,,,,,,C8S31,MOZART
+CORTILE,RICOTTARO,,1,sett.,,,,,,x,C1S06,STRAZZERI
+VIA,RIOLO ROSARIO,Ferrara - Marconi,8,sett.,,,,,,x,C8S06,STRAZZERI
+VIA,RIOLO ROSARIO,Marconi - Catania,8,sett.,,,,x,,,C8S07,STRAZZERI
+VIA,RIOLO VINCENZO,,8,bisett.,,x,,,x,,C8B02,STRAZZERI
+VIA,RISO,,1,giorn.,x,x,x,x,x,x,C1G03,INGHAM
+VIA,RIZZO AMMIRAGLIO,P.zza Cascino - Don Orione,8,trisett.,,x,,x,,x,C8T20,STRAZZERI
+VIA,RIZZO AMMIRAGLIO,"Don Orione - Salita Belmonte (comprese bretelle laterali
+altezza Jung e Leotta)",8,trisett.,,x,,x,,x,C8T21,STRAZZERI
+VIA,RIZZO LUIGI TEN.,,8,sett.,,,,x,,,C8S10,MOZART
+VIA,RIZZOTTO GIUSEPPE,,1,sett.,,x,,,,,C1S15,CAMPISI
+VICOLO,ROCCA,,1,sett.,,,,x,,,C1S11,CAMPISI
+CORTILE,ROCCHETTI,,8,sett.,,,,,,x,C8S24,STRAZZERI
+VIA,RODI,,8,bisett.,,,x,,,x,C8B30,STRAZZERI
+VIA,ROMA,P.zza Giulio Cesare - C.so Vittorio Emanuele,1,trisett.,,x,,x,,x,C1T02,CAMPISI
+VIA,ROMA,Cavour - Vittorio Emanuele,1,trisett.,x,,x,,x,,C1T14,STRAZZERI
+VIA,ROMA,Cavour - P.pe di Belmonte,8,giorn.,x,x,x,x,x,x,C8G04,STRAZZERI
+VIA,ROMA,P.pe di Belmonte - P.zza Sturzo,8,giorn.,x,x,x,x,x,x,C8G05,STRAZZERI
+VIA,ROMA (slargo antistante STANDA),,1,trisett.,x,,x,,x,,C1T05,INGHAM
+VIA,ROMAGNA,,8,bisett.,,x,,,x,,C8B34,MOZART
+VIA,ROMANO GIUSEPPE,,8,sett.,,,,x,,,C8S07,STRAZZERI
+SALITA,ROMANO SANTI,,1,giorn.,x,x,x,x,x,x,C1G01,INGHAM
+VIA,ROSA ALLA GIOIAMIA,,1,sett.,,,,x,,,C1S11,CAMPISI
+CORTILE,ROSA ALLA MAGIONE,,1,trisett.,x,,x,,x,,C1T04,INGHAM
+VICOLO,ROSA ALL'ALLORO,,1,bisett.,,,x,,,x,C1B05,INGHAM
+VIA,ROSSELLI,,1,sett.,,x,,,,,C1S15,CAMPISI
+VICOLO,ROSSELLI,,1,sett.,,x,,,,,C1S15,CAMPISI
+VIA,ROSSINI GIOACCHINO,,1,trisett.,x,,x,,x,,C1T10,STRAZZERI
+VIA,ROTOLO CANONICO,,8,trisett.,x,,x,,x,,C8T09,STRAZZERI
+VIA,RUBENS PIETRO PAOLO,solo varchi d'accesso,8,sett.,,,,x,,,C8S28,MOZART
+VIA,RUFFINO,,8,sett.,,x,,,,,C8S02,STRAZZERI
+VIA,RUTELLI MARIO,compreso tratti pedonali per Libertà,8,bisett.,,,x,,,x,C8B19,MOZART
+VIA,RUZZOLONE PIETRO,,8,sett.,,,,x,,,C8S34,MOZART
+VICOLO,S. ANTONIO PIAZZA TEDESCHI,,1,sett.,,,,x,,,C1S17,CAMPISI
+CORTILE,S. CATERINA,,1,bisett.,,,x,,,x,C1B20,CAMPISI
+SALITA,S. CATERINA,,1,giorn.,x,x,x,x,x,x,C1G16,CAMPISI
+VICOLO,S. CATERINA,,1,giorn.,x,x,x,x,x,x,C1G16,CAMPISI
+VIA,S. CRISTOFORO,,1,bisett.,,,x,,,x,C1B20,CAMPISI
+CORTILE,S. MARIA DELLE GRAZIE,,1,sett.,x,,,,,,C1S08,CAMPISI
+VICOLO,S. MARIA LA NUOVA,,1,bisett.,,x,,,x,,C1B07,STRAZZERI
+CORTILE,S. NICOLA,,1,sett.,x,,,,,,C1S08,CAMPISI
+PIAZZA,S. ONOFRIO,,1,trisett.,x,,x,,x,,C1T09,STRAZZERI
+PIAZZETTA,S. SPIRITO,,1,trisett.,,x,,x,,x,C1T06,INGHAM
+PIAZZETTA,S.AGATA ALLA GUILLA,,1,sett.,,,,x,,,C1S11,CAMPISI
+VIA,S.AGATA ALLA GUILLA,P.zza S. Isidoro alla Guilla - Via Celso,1,bisett.,,x,,,x,,C1B10,STRAZZERI
+VIA,S.AGATA ALLA GUILLA,Via del Celso - P.zza Settangeli,1,bisett.,x,,,x,,,C1B19,CAMPISI
+CORTILE,S.AGATA ALLA GUILLA (1),,1,sett.,,,,x,,,C1S11,CAMPISI
+CORTILE,S.AGATA ALLA GUILLA (2),,1,sett.,,,,x,,,C1S11,CAMPISI
+VIA,S.AGOSTINO,Beati Paoli - Mirabella,1,giorn.,x,x,x,x,x,x,mercati,INGHAM -RD
+VIA,S.AGOSTINO,Mirabella - Maqueda,1,giorn.,x,x,x,x,x,x,mercati,INGHAM -RD
+CORTILE,S.ANDREA,,1,trisett.,,x,,x,,x,C1T12,STRAZZERI
+PIAZZA,S.ANDREA,,1,trisett.,,x,,x,,x,C1T12,STRAZZERI
+VICOLO,S.ANDREA,,1,trisett.,,x,,x,,x,C1T12,STRAZZERI
+PIAZZA,S.ANNA,,1,giorn.,x,x,x,x,x,x,C1G04,INGHAM
+VIA,S.ANNA,,1,giorn.,x,x,x,x,x,x,C1G04,INGHAM
+ATRIO,S.ANNA (strada privata chiusa),,1,,,,,,,,"strada privata
+chiusa",
+CORTILE,S.ANNA (strada privata chiusa),,1,,,,,,,,"strada privata
+chiusa",
+PIAZZA,S.ANNA AL CAPO,,1,giorn.,x,x,x,x,x,x,C1G09,STRAZZERI
+VICOLO,S.ANTONINO,,1,giorn.,x,x,x,x,x,x,C1G08,STRAZZERI
+SALITA,S.ANTONIO,,1,sett.,,,,x,,,C1S04,STRAZZERI
+VICOLO,S.ANTONIO A PALAZZO REALE,,1,sett.,,,,,,x,C1S13,CAMPISI
+PIAZZETTA,S.BASILIO,,1,bisett.,,,x,,,x,C1B08,STRAZZERI
+VIA,S.BASILIO,,1,bisett.,,,x,,,x,C1B08,STRAZZERI
+VICOLO,S.BASILIO,,1,bisett.,,,x,,,x,C1B08,STRAZZERI
+VIA,S.BIAGIO,,1,giorn.,x,x,x,x,x,x,C1G15,CAMPISI
+PIAZZA,S.CARLO,,1,trisett.,x,,x,,x,,C1T05,INGHAM
+VICOLO,S.CARLO,,1,bisett.,x,,,x,,,C1B04,INGHAM
+PIAZZA,S.CHIARA,,1,sett.,x,,,,,,C1S14,CAMPISI
+VICOLO,S.CHIARA,,1,sett.,,,x,,,,C1S16,CAMPISI
+PIAZZETTA,S.COSMO,,1,trisett.,x,,x,,x,,C1T09,STRAZZERI
+VIA,S.CRISTINA,,1,sett.,,,,x,,,C1S11,CAMPISI
+DISCESA,S.DOMENICO,,1,trisett.,,x,,x,,x,C1T12,STRAZZERI
+PIAZZA,S.DOMENICO,,1,giorn.,x,x,x,x,x,x,C1G06,STRAZZERI
+VICOLO,S.DOMENICO,,1,bisett.,,x,,,x,,C1B07,STRAZZERI
+PIAZZETTA,S.ELIGIO,,1,bisett.,,x,,,x,,C1B07,STRAZZERI
+VICOLO,S.ELIGIO,,1,bisett.,,x,,,x,,C1B07,STRAZZERI
+PIAZZA,S.EUNO,,1,giorn.,x,x,x,x,x,x,C1G03,INGHAM
+VIA,S.EUNO,,1,giorn.,x,x,x,x,x,x,C1G03,INGHAM
+VICOLO,S.FILIPPO D'ARGIRO',,1,sett.,,x,,,,,C1S15,CAMPISI
+PIAZZA,S.FRANCESCO,,1,giorn.,x,x,x,x,x,x,C1G04,INGHAM
+PIAZZA,S.FRANCESCO DI PAOLA,,8,trisett.,x,,x,,x,,C8T01,STRAZZERI
+PIAZZA,S.FRANCESCO SAVERIO,,1,bisett.,,x,,,x,,C1B14,CAMPISI
+VIA,S.FRANCESCO SAVERIO,,1,bisett.,x,,,x,,,C1B13,CAMPISI
+VICOLO,S.GABRIELE,,1,bisett.,x,,,x,,,C1B04,INGHAM
+VICOLO,S.GIACOMO,,1,bisett.,,x,,,x,,C1B06,STRAZZERI
+PIAZZA,S.GIACOMO LA MARINA,,1,bisett.,,x,,,x,,C1B07,STRAZZERI
+VICOLO,S.GILIBERTO,,1,sett.,,,x,,,,C1S10,CAMPISI
+PIAZZA,S.GIORGIO DEI GENOVESI,Cavour - Valverde,1,bisett.,,x,,,x,,C1B06,STRAZZERI
+VIA,S.GIORGIO DEI GENOVESI,,1,bisett.,,x,,,x,,C1B06,STRAZZERI
+VIA,S.GIOSAFAT,,1,sett.,,x,,,,,C1S09,CAMPISI
+ARCO,S.GIOVANNI ALLA GUILLA,,1,bisett.,,x,,,x,,C1B10,STRAZZERI
+PIAZZA,S.GIOVANNI ALLA GUILLA,,1,bisett.,,x,,,x,,C1B10,STRAZZERI
+VIA,S.GIOVANNI ALLA GUILLA,,1,bisett.,,x,,,x,,C1B10,STRAZZERI
+VICOLO,S.GIOVANNI CRISOSTOMO,,1,sett.,,,x,,,,C1S16,CAMPISI
+PIAZZA,S.GIOVANNI DECOLLATO,,1,bisett.,x,,,x,,,C1B16,CAMPISI
+CLE,S.GIOVANNI DEGLI EREMITI,,1,giorn.,x,x,x,x,x,x,C1G14,CAMPISI
+PIAZZETTA,S.GIUSEPPE,,1,bisett.,,,x,,,x,C1B18,CAMPISI
+VICOLO,S.GIUSEPPE,,1,bisett.,,,x,,,x,C1B18,CAMPISI
+VICOLO,S.GIUSEPPE D'ARIMATEA,,1,bisett.,,,x,,,x,C1B18,CAMPISI
+VIA,S.GREGORIO,,1,sett.,,,,,,x,C1S06,STRAZZERI
+VICOLO,S.GUGLIELMO,,1,giorn.,x,x,x,x,x,x,C1G08,STRAZZERI
+PIAZZA,S.ISIDORO ALLA GUILLA,,1,bisett.,,x,,,x,,C1B10,STRAZZERI
+VIA,S.ISIDORO ALLA GUILLA,,1,bisett.,,x,,,x,,C1B10,STRAZZERI
+PIAZZETTA,S.MARCO,,1,sett.,,,,,,x,C1S06,STRAZZERI
+VICOLO,S.MARCO,,8,sett.,,,x,,,,C8S03,STRAZZERI
+VICOLO,S.MARIA AL PARADISO,,1,sett.,x,,,,,,C1S08,CAMPISI
+VIA,S.MARIA DEL PILIERO,,1,sett.,,,,x,,,C1S07,STRAZZERI
+VICOLO,S.MARIA MAGGIORE,,1,sett.,,,x,,,,C1S16,CAMPISI
+VICOLO,S.MATTEO,,1,sett.,,,,x,,,C1S04,STRAZZERI
+VICOLO,S.MERCURIO,,1,sett.,,,,,,x,C1S13,CAMPISI
+LARGO,S.MICHELE ARCANGELO,,8,bisett.,,,x,,,x,C8B50,MOZART
+VICOLO,S.MICHELE ARCANGELO,,1,sett.,x,,,,,,C1S14,CAMPISI
+VICOLO,S.NICOLO',,1,giorn.,x,x,x,x,x,x,C1G08,STRAZZERI
+PIAZZA,S.NICOLO' ALL'ALBERGHERIA,,1,sett.,,x,,,,,C1S15,CAMPISI
+VIA,S.NICOLO' ALL'ALBERGHERIA,Albergheria - Tesauro,1,sett.,,x,,,,,C1S15,CAMPISI
+VIA,S.NICOLO' ALL'ALBERGHERIA,P.za Baronio - Porta di Castro,1,sett.,,,x,,,,C1S16,CAMPISI
+PIAZZA,S.NICOLO' DEGLI SCALZI,,1,trisett.,,x,,x,,x,C1T02,CAMPISI
+PIAZZA,S.OLIVA,,8,giorn.,x,x,x,x,x,x,C8G02,STRAZZERI
+VIA,S.OLIVA,,8,giorn.,x,x,x,x,x,x,C8G02,STRAZZERI
+CORTILE,S.ONOFRIO (PZA S.ONOFRIO),,1,trisett.,x,,x,,x,,C1T09,STRAZZERI
+VICOLO,S.ORSOLA,Maqueda - P.za SS. Quaranta Martiri,1,bisett.,,,x,,,x,C1B20,CAMPISI
+VICOLO,S.ORSOLA,Maqueda - Lampionelli,1,sett.,x,,,,,,C1S08,CAMPISI
+CORTILE,S.PAOLINO,,1,bisett.,x,,,x,,,C1B19,CAMPISI
+PIAZZETTA,S.PAOLINO,,1,bisett.,x,,,x,,,C1B19,CAMPISI
+VICOLO,S.PAOLINO,,1,sett.,,x,,,,,C1S02,STRAZZERI
+VIA,S.RITA,,1,sett.,,,,,x,,C1S05,STRAZZERI
+VIA,S.ROSALIA,,1,sett.,,x,,,,,C1S09,CAMPISI
+VICOLO,S.ROSALIA,,1,sett.,,x,,,,,C1S09,CAMPISI
+VIA,S.ROSALIA (ALLA STATUA),,8,trisett.,x,,x,,x,,C8T29,PARTANNA
+VIA,S.ROSALIA (ALLA STATUA),,8,trisett.,,x,,x,,x,C8T30,PARTANNA
+VICOLO,S.ROSALIA AL PAPIRETO,,1,sett.,,x,,,,,C1S02,STRAZZERI
+VIA,S.SEBASTIANO,,1,bisett.,,x,,,x,,C1B06,STRAZZERI
+ARCO,S.SOFIA,,1,trisett.,,x,,x,,x,C1T08,STRAZZERI
+PIAZZETTA,S.SOFIA,,1,trisett.,,x,,x,,x,C1T08,STRAZZERI
+VICOLO,S.SOFIA,,1,trisett.,,x,,x,,x,C1T08,STRAZZERI
+PIAZZETTA,S.SPINA,,1,sett.,,x,,,,,C1S09,CAMPISI
+VIA,S.SPINA,,1,sett.,,x,,,,,C1S09,CAMPISI
+PIAZZETTA,S.TERESA,,1,giorn.,x,x,x,x,x,x,C1G01,INGHAM
+VIA,S.TERESA,,1,giorn.,x,x,x,x,x,x,C1G01,INGHAM
+PIAZZA,S.VITO,,1,sett.,,,,,,x,C1S06,STRAZZERI
+VIA,SABOTINO,Pasubio - IV Novembre,8,sett.,,,,x,,,C8S40,MOZART
+VIA,SABOTINO,P.pe di Paternò - Pasubio,8,bisett.,x,,,x,,,C8B41,MOZART
+SPIANATA,SACRA GROTTA,compresa scalinata,8,trisett.,x,,x,,x,,C8T29,PARTANNA
+SPIANATA,SACRA GROTTA,compresa scalinata,8,trisett.,,x,,x,,x,C8T30,PARTANNA
+VIA,SADAT ANWAR,,8,sett.,,,,,,x,C8S11,MOZART
+VIA,SALADINO,,1,sett.,,,x,,,,C1S16,CAMPISI
+VIA,SALINAS ANTONINO,,8,bisett.,,,x,,,x,C8B25,MOZART
+VICOLO,SALVEZZA,,1,bisett.,,x,,,x,,C1B02,INGHAM
+VIA,SALVO LICATA,,1,giorn.,x,x,x,x,x,x,C1G12,STRAZZERI
+VIA,SAMMARTINO,Dante - oltre Nigra,8,trisett.,,x,,x,,x,C8T13,STRAZZERI
+VIA,SAMMARTINO,P.za Amendola - Dante,8,trisett.,,x,,x,,x,C8T02,STRAZZERI
+VIA,SAMMUZZO,,8,sett.,x,,,,,,C8S01,STRAZZERI
+CORTILE,SAMPOLO,,8,sett.,,x,,,,,C8S08,MOZART
+VIA,SAMPOLO,Imperatore Federico - Cordova,8,trisett.,x,,x,,x,,C8T19,MOZART
+VIA,SAMPOLO,Cordova - Alessi,8,trisett.,x,,x,,x,,C8T18,MOZART
+VIA,SAMPOLO,Alessi - Duca della Verdura,8,trisett.,x,,x,,x,,C8T16,STRAZZERI
+VIA,SAMPOLO,da Duca della Verdura ad aula bunker,8,bisett.,,,x,,,x,C8B09,STRAZZERI
+PIAZZA,SANDRON LUIGI  già PIAZZA MN. 1,,8,bisett.,,,x,,,x,C8B16,STRAZZERI
+VIA,SANDRON REMO,,8,bisett.,x,,,x,,,C8B10,STRAZZERI
+VICOLO,SANGUINAZZAI,,1,sett.,,,,,x,,C1S05,STRAZZERI
+VIA,SANSONE ALFONSO,,1,sett.,,,x,,,,C1S10,CAMPISI
+DISCESA,SANTAMARINA,,1,sett.,,,,x,,,C1S04,STRAZZERI
+VIA,SANTAROSA SANTORRE,,8,sett.,,,,x,,,C8S07,STRAZZERI
+VIA,SANTUARIO CROCE,,8,trisett.,,x,,x,,x,C8T30,PARTANNA
+VIA,SANTUARIO DI CRUILLAS,Regione Siciliana - Paternò,8,sett.,,,x,,,,C8S32,MOZART
+VIA,SAVONA,,1,bisett.,,x,,,x,,C1B02,INGHAM
+VIALE,SCADUTO FRANCESCO,,8,bisett.,,x,,,x,,C8B42,MOZART
+VICOLO,SCAFIDI,,1,sett.,,,,,x,,C1S12,CAMPISI
+PIAZZA,SCALIA LUIGI,,8,trisett.,x,,x,,x,,C8T15,STRAZZERI
+VICOLO,SCALICI,,8,sett.,,,x,,,,C8S03,STRAZZERI
+CORTILE,SCALILLA,,1,sett.,,,,,,x,C1S06,STRAZZERI
+VIA,SCARLATTI ALESSANDRO,,1,trisett.,x,,x,,x,,C1T10,STRAZZERI
+VIA,SCARPARELLI,,1,sett.,x,,,,,,C1S14,CAMPISI
+VIA,"SCARPELLO GAETANO  già VIA MN.
+10",,8,sett.,,,,,x,,C8S12,MOZART
+VIA,SCHIAVO DOMENICO,,8,sett.,,x,,,,,C8S02,STRAZZERI
+VIA,SCHIAVO MICHELE,,1,sett.,,x,,,,,C1S15,CAMPISI
+CORTILE,SCHIAVUZZO,,1,bisett.,x,,,x,,,C1B04,INGHAM
+VIA,SCHIAVUZZO,,1,bisett.,x,,,x,,,C1B01,INGHAM
+VIA,SCHIERA GIUSEPPE,,1,giorn.,x,x,x,x,x,x,C1G07,STRAZZERI
+VIA,SCHIOPPETTIERI,,1,bisett.,,,x,,,x,C1B20,CAMPISI
+VIA,SCHIRO' GIACOMO,,8,bisett.,x,,,x,,,C8B10,STRAZZERI
+VIA,SCIANNA CIRO,,1,bisett.,x,,,x,,,C1B09,STRAZZERI
+VICOLO,SCIARA,,1,bisett.,x,,,x,,,C1B04,INGHAM
+VICOLO,SCICLI,,1,sett.,,,,,x,,C1S12,CAMPISI
+VIA,SCINA' DOMENICO,La Lumia - P.za Sturzo,8,giorn.,x,x,x,x,x,x,C8G06,STRAZZERI
+VIA,SCINA' DOMENICO,P.za Sturzo - P.zza della Pace,8,bisett.,,,x,,,x,C8B06,STRAZZERI
+VIA,SCIPPATESTE,,1,sett.,x,,,,,,C1S01,STRAZZERI
+VIA,SCIUTI GIUSEPPE,Lazio - Paternò,8,bisett.,,x,,,x,,C8B36,MOZART
+VIA,SCIUTI GIUSEPPE,Paternò - Cesareo (compreso salrgo altezza Giusti),8,trisett.,,x,,x,,x,C8T26,MOZART
+VIA,SCIUTI GIUSEPPE,Cesareo - Notarbartolo,8,giorn.,x,x,x,x,x,x,C8G12,MOZART
+VIA,SCLAFANI MATTEO,,1,bisett.,,x,,,x,,C1B17,CAMPISI
+VIA,SCOBAR CRISTOFARO,,8,bisett.,,,x,,,x,C8B57,MOZART
+VIA,SCOPARI,,1,bisett.,,,x,,,x,C1B05,INGHAM
+VIA,SCROFANI SAVERIO,,8,bisett.,,x,,,x,,C8B22,MOZART
+CORTILE,SECCO (PAL.REALE),,1,sett.,,,,,,x,C1S06,STRAZZERI
+VIA,SEGESTA,,8,sett.,,,,,,x,C8S06,STRAZZERI
+VIA,SELINUNTE,,8,sett.,,,,,,x,C8S06,STRAZZERI
+VIA,SELLA QUINTINO,Libertà - P.zza Nascè,8,trisett.,x,,x,,x,,C8T06,STRAZZERI
+VIA,SELLA QUINTINO,P.za Nascè - Empedocle,8,bisett.,,,x,,,x,C8B06,STRAZZERI
+LARGO,SELLERIO ANTONIO,,8,sett.,,,,,x,,C8S12,MOZART
+CORTILE,SEMINARIO GRECO,,8,sett.,x,,,,,,C8S13,STRAZZERI
+VIA,SEMINARIO ITALO ALBANESE,,1,sett.,,,,x,,,C1S07,STRAZZERI
+VIA,SERRADIFALCO,Casella - Ziino,8,bisett.,,x,,,x,,C8B59,MOZART
+PIAZZA,SETT'ANGELI,,1,giorn.,x,x,x,x,x,x,C1G17,CAMPISI
+PIAZZETTA,SETTE CANTONI,,1,bisett.,,x,,,x,,C1B17,CAMPISI
+VICOLO,SETTIMO,,1,sett.,,x,,,,,C1S15,CAMPISI
+PIAZZETTA,SETTIMO (PAL.REALE),,1,sett.,,x,,,,,C1S15,CAMPISI
+PIAZZA,SETTIMO RUGGERO,,8,giorn.,x,x,x,x,x,x,C8G06,STRAZZERI
+VIA,SETTIMO RUGGERO,P.za Castelnuovo - Stabile,8,giorn.,x,x,x,x,x,x,C8G01,STRAZZERI
+VIA,SETTIMO RUGGERO,Stabile - Cavour,8,giorn.,x,x,x,x,x,x,C8G01,STRAZZERI
+VIA,SGAMBATI GIOVANNI,,8,sett.,x,,,,,,C8S25,MOZART
+VIA,SGARLATA GAETANO,,1,bisett.,,,x,,,x,C1B08,STRAZZERI
+VIA,SICILIA,Brigata Verona - Lazio,8,trisett.,x,,x,,x,,C8T24,MOZART
+VIA,SICILIA,IV Novembre - Lazio,8,bisett.,,,x,,,x,C8B40,MOZART
+VIA,SICILIANO VILLANUEVA LUIGI,P.zza Vanni - Di Cristina,1,bisett.,,,x,,,x,C1B15,CAMPISI
+VIA,SICILIANO VILLANUEVA LUIGI,Di Cristina - Del Giudice,1,sett.,,,,x,,,C1S17,CAMPISI
+VICOLO,SIGNORUZZO,,1,bisett.,x,,,x,,,C1B09,STRAZZERI
+VIA,SIGONIO SILVESTRE,,8,sett.,,,,,,x,C8S30,MOZART
+CORTILE,SILVESTRI,,8,sett.,,,,,,x,C8S24,STRAZZERI
+VIA,SIMONE DI BOLOGNA,,1,giorn.,x,x,x,x,x,x,C1G17,CAMPISI
+VIA,SIRACUSA,,8,trisett.,,x,,x,,x,C8T11,STRAZZERI
+VIA,SMIRIGLIO MARIANO,,8,sett.,,,,,,x,C8S06,STRAZZERI
+VICOLO,SOCCORSO (1),,1,sett.,,,,x,,,C1S17,CAMPISI
+VIA,SOLE ANDREA TEN.,,8,sett.,,,,x,,,C8S10,MOZART
+CORTILE,SOLLIMA,,1,trisett.,,x,,x,,x,C1T07,INGHAM
+VIA,SORBA VITO,,8,sett.,,,,,x,,C8S29,MOZART
+CORTILE,SORRENTINO,,1,bisett.,x,,,x,,,C1B09,STRAZZERI
+VICOLO,SOTTO LA VOLTA,,1,trisett.,x,,x,,x,,C1T05,INGHAM
+VIA,SOZZI OLIVIO,,8,sett.,,,,x,,,C8S34,MOZART
+VIA,SPACCAFORNO,,8,bisett.,x,,,x,,,C8B29,STRAZZERI
+VIA,SPADARO,,1,bisett.,,x,,,x,,C1B02,INGHAM
+VICOLO,SPAGNA (1),,1,sett.,,,,,x,,C1S12,CAMPISI
+VICOLO,SPAGNA (2),,1,sett.,,,,,x,,C1S12,CAMPISI
+PIAZZETTA,SPECIALE PIETRO,,1,sett.,x,,,,,,C1S14,CAMPISI
+VIA,SPEDALIERI NICOLO',Montepellegrino - Juvara,8,bisett.,x,,,x,,,C8B13,STRAZZERI
+VIA,SPEDALIERI NICOLO',Juvara - Di Chiara,8,trisett.,,x,,x,,x,C8T22,STRAZZERI
+VIA,SPERLINGA,,8,giorn.,x,x,x,x,x,x,C8G01,STRAZZERI
+VIA,SPINUZZA SALVATORE,Valenti - Roma,1,giorn.,x,x,x,x,x,x,C1G07,STRAZZERI
+VIA,SPINUZZA SALVATORE,Maqueda - Valenti,1,giorn.,x,x,x,x,x,x,C1G07,STRAZZERI
+VIA,SPONTINI GASPARE,,8,sett.,,x,,,,,C8S33,MOZART
+VIA,SQUARCIALUPO,,1,bisett.,,x,,,x,,C1B06,STRAZZERI
+VIA,SS. CROCIFISSO,,1,sett.,,,,,x,,C1S12,CAMPISI
+PIAZZA,SS. QUARANTA MARTIRI,,1,bisett.,,,x,,,x,C1B20,CAMPISI
+VIA,SS.SALVATORE,,1,bisett.,,,x,,,x,C1B18,CAMPISI
+VIA,SS.XL MARTIRI AL CASALOTTO,,1,bisett.,,,x,,,x,C1B20,CAMPISI
+PIAZZA,SS.XL MARTIRI ALLA GUILLA,,1,bisett.,,x,,,x,,C1B10,STRAZZERI
+VIA,SS.XL MARTIRI ALLA GUILLA,,1,bisett.,,x,,,x,,C1B10,STRAZZERI
+VIA,STABILE MARIANO,Ruggero Settimo - Villaermosa,8,giorn.,x,x,x,x,x,x,C8G01,STRAZZERI
+VIA,STABILE MARIANO,P.pe di Scordia - Crispi,8,bisett.,,x,,,x,,C8B02,STRAZZERI
+VIA,STABILE MARIANO,P.za S. Francesco di Paola - Ruggero Settimo,8,giorn.,x,x,x,x,x,x,C8G02,STRAZZERI
+VIA,STABILE MARIANO,Villaermosa - P.pe di Scordia,8,giorn.,x,x,x,x,x,x,C8G04,STRAZZERI
+VICOLO,STABILE MARIANO,,8,bisett.,,x,,,x,,C8B31,STRAZZERI
+VICOLO,STALLUZZA,,1,sett.,x,,,,,,C1S01,STRAZZERI
+VIA,STARRABBA RAFFAELE,,8,sett.,,,x,,,,C8S15,STRAZZERI
+PIAZZA,STAZIONE LOLLI,compresi camminamenti interni villetta,8,bisett.,,,x,,,x,C8B28,STRAZZERI
+CORTILE,STECCA,,8,sett.,,,x,,,,C8S03,STRAZZERI
+PIAZZA,STRAUSS RICCARDO,carreggiata lato P.pe di Paternò,8,bisett.,,x,,,x,,C8B52,MOZART
+PIAZZA,STRAUSS RICCARDO,carreggiata lato Zandonai,8,bisett.,,,x,,,x,C8B55,MOZART
+PIAZZA,STRAZZERI VITTORIO,,8,sett.,,,,x,,,C8S04,STRAZZERI
+VIA,STREVA VINCENZO GEN.,Villabianca - Sampolo,8,bisett.,x,,,x,,,C8B17,STRAZZERI
+VIA,STREVA VINCENZO GEN.,Di Marco - Villabianca,8,bisett.,,x,,,x,,C8B18,STRAZZERI
+PIAZZA,STURZO LUIGI,,8,giorn.,x,x,x,x,x,x,C8G06,STRAZZERI
+VIA,TARANTO,,8,sett.,,,,,x,,C8S23,MOZART
+VICOLO,TARDIA,,1,sett.,,,,,x,,C1S12,CAMPISI
+PIAZZA,TARZANA',,1,trisett.,,x,,x,,x,C1T13,STRAZZERI
+VICOLO,TARZANA',,1,trisett.,,x,,x,,x,C1T13,STRAZZERI
+CORTILE,TARZANA' (1),,1,trisett.,,x,,x,,x,C1T13,STRAZZERI
+CORTILE,TARZANA' (2),,1,trisett.,,x,,x,,x,C1T13,STRAZZERI
+VIA,TASSO TORQUATO,,8,bisett.,,x,,,x,,C8B45,MOZART
+VIA,TAVOLA TONDA,,1,bisett.,,x,,,x,,C1B06,STRAZZERI
+VICOLO,TEATRO BELLINI,,1,sett.,x,,,,,,C1S08,CAMPISI
+VIA,TEATRO BIONDO,,1,giorn.,x,x,x,x,x,x,C1G12,STRAZZERI
+VIA,TEATRO GARIBALDI,,1,bisett.,x,,,x,,,C1B01,INGHAM
+PIAZZETTA,TEATRO S. CECILIA,,1,trisett.,x,,x,,x,,C1T05,INGHAM
+VIA PICC.,TEATRO S. CECILIA,,1,trisett.,x,,x,,x,,C1T05,INGHAM
+VICOLO,TEATRO S. CECILIA,,1,trisett.,x,,x,,x,,C1T05,INGHAM
+VIA,TEDESCHI (ALLA PIAZZA),,1,sett.,,,,,x,,C1S12,CAMPISI
+VIA,TERRA DELLE MOSCHE,,1,trisett.,,x,,x,,x,C1T08,STRAZZERI
+VIA,TERRASANTA,,8,trisett.,,x,,x,,x,C8T14,MOZART
+VIA,TESAURO FRANCESCO PAOLO,,1,sett.,,,x,,,,C1S16,CAMPISI
+CORTILE,TESTAVERDE,,8,sett.,x,,,,,,C8S09,MOZART
+VIA,TEVERE,,8,sett.,,,,x,,,C8S34,MOZART
+VIA,THAON DE REVEL PAOLO AMM.,,8,sett.,,,x,,,,C8S21,MOZART
+VIA,TINTORETTO JACOPO,,8,bisett.,,,x,,,x,C8B57,MOZART
+PIAZZA,TITONE VIRGILIO,,8,sett.,,,,,x,,C8S17,STRAZZERI
+VIA,TIZIANO,,8,sett.,,,,x,,,C8S28,MOZART
+VIA,TOMASINO SALVATORE,,1,sett.,,,x,,,,C1S10,CAMPISI
+VIA,TORINO,,1,trisett.,,x,,x,,x,C1T02,CAMPISI
+VIA,TORRE DI GOTTO,,1,trisett.,,x,,x,,x,C1T12,STRAZZERI
+VIA,TORREARSA,,8,trisett.,x,,x,,x,,C8T06,STRAZZERI
+VIA,TORREMUZZA,,1,giorn.,x,x,x,x,x,x,C1G01,INGHAM
+VIA,TORRICELLI EVANGELISTA,,8,sett.,,,x,,,,C8S27,MOZART
+VICOLO,TORTORICI,,1,bisett.,,x,,,x,,C1B10,STRAZZERI
+VIA,TOSCANA,compreso passaggio pedonale Via Toscana civ. 9,8,bisett.,,x,,,x,,C8B34,MOZART
+VIA,TOSCANINI ARTURO,,8,sett.,,,,x,,,C8S28,MOZART
+VIA,TOSELLI PIETRO MAGG.,Cordova - Alessi,8,trisett.,x,,x,,x,,C8T18,MOZART
+VIA,TOSELLI PIETRO MAGG.,Alessi - Degli Orti,8,bisett.,x,,,x,,,C8B17,STRAZZERI
+VIA,TOSELLI PIETRO MAGG.,Degli Orti - Duca della Verdura,8,trisett.,x,,x,,x,,C8T16,STRAZZERI
+PIAZZA,TOSTI FRANCESCO PAOLO,,8,trisett.,,x,,x,,x,C8T27,MOZART
+VIA,TRABIA,,1,giorn.,x,x,x,x,x,x,C1G12,STRAZZERI
+VIA,TRAMONTANA,,8,sett.,,,,x,,,C8S28,MOZART
+PIAZZETTA,TRAPANI,,8,sett.,,,x,,,,C8S27,MOZART
+VIA,TRAPANI,,8,trisett.,,x,,x,,x,C8T11,STRAZZERI
+CORTILE,TRAPANI (ACQUASANTA),,8,trisett.,,x,,x,,x,C8T21,STRAZZERI
+VIA,TRAPPETARO,,1,sett.,x,,,,,,C1S01,STRAZZERI
+VIA,TRAPPETAZZO,,1,sett.,,x,,,,,C1S15,CAMPISI
+VICOLO,TRAVICELLI,,1,sett.,,,,,x,,C1S05,STRAZZERI
+PIAZZA,TRE BARE,,1,sett.,,x,,,,,C1S15,CAMPISI
+CORTILE,TRE DENARI,,1,sett.,,x,,,,,C1S09,CAMPISI
+VIA,TRENTACOSTE DOMENICO,Caviglia - Toselli,8,sett.,,x,,,,,C8S08,MOZART
+VIA,TRENTO,,1,bisett.,,,x,,,x,C1B03,INGHAM
+VIA,TRIESTE,,1,trisett.,,x,,x,,x,C1T02,CAMPISI
+VIA,TRIPOLI,,8,bisett.,,,x,,,x,C8B30,STRAZZERI
+VICOLO,TRUGLIARI,,1,bisett.,,,x,,,x,C1B18,CAMPISI
+PIAZZETTA,TUDISCO NICOLO',,8,sett.,,,,,x,,C8S05,STRAZZERI
+VIA,TUDISCO NICOLO',,8,sett.,,,,,x,,C8S05,STRAZZERI
+CORSO,TUKORY,Chiaramonte - Benedettini,1,giorn.,x,x,x,x,x,x,C1G14,CAMPISI
+CORSO,TUKORY,Re Ruggero - Filiciuzza (entrambe le carr.),1,giorn.,x,x,x,x,x,x,C1G14,CAMPISI
+VIA,TUNISI,,8,bisett.,,,x,,,x,C8B30,STRAZZERI
+VICOLO,TUNISI,,8,bisett.,,,x,,,x,C8B30,STRAZZERI
+VIA,TURATI FILIPPO,,8,giorn.,x,x,x,x,x,x,C8G06,STRAZZERI
+VIA,TURRISI COLONNA GIUSEPPINA,Cusmano - P.pe di Villafranca,8,bisett.,x,,,x,,,C8B29,STRAZZERI
+VIA,TURRISI COLONNA GIUSEPPINA,Malaspina - Cusmano,8,bisett.,,x,,,x,,C8B27,STRAZZERI
+VIA,TURRISI NICOLO',,8,trisett.,x,,x,,x,,C8T01,STRAZZERI
+VICOLO,UCCIARDONE,,8,bisett.,x,,,x,,,C8B10,STRAZZERI
+VIA,UGDULENA GREGORIO,,8,bisett.,,,x,,,x,C8B19,MOZART
+FORO,UMBERTO I - parcheggio Jolly Hotel,,1,trisett.,,x,,x,,x,C1T03,INGHAM
+FORO,UMBERTO I (carreggiata lato mare),spazio pavimentato adiacente prato,1,trisett.,,x,,x,,x,C1T03,INGHAM
+FORO,UMBERTO I (entrambe le carreggiate),Porta Felice - Lincoln,1,trisett.,,x,,x,,x,C1T03,INGHAM
+VIA,UMBRIA,,8,sett.,,,x,,,,C8S39,MOZART
+P.LE,UNGHERIA,,8,trisett.,x,,x,,x,,C8T03,STRAZZERI
+PIAZZA,UNITA' D'ITALIA,,8,bisett.,x,,,x,,,C8B44,MOZART
+VIA,VACCARINI GIOVAN BATTISTA,,8,trisett.,x,,x,,x,,C8T18,MOZART
+VIA,VAGLICA GIOACCHINO,,8,giorn.,x,x,x,x,x,x,C8G01,STRAZZERI
+VIA,VALDINOTO,,8,sett.,,,,x,,,C8S34,MOZART
+VIA,VALENTI,,1,giorn.,x,x,x,x,x,x,C1G07,STRAZZERI
+VICOLO,VALGUARNERA,,1,trisett.,x,,x,,x,,C1T05,INGHAM
+VIA,VALGUARNERA SIMONE,,8,sett.,,,,x,,,C8S40,MOZART
+VICOLO,VALLONE,,1,sett.,,,,,,x,C1S13,CAMPISI
+VIA,VALVERDE,,1,sett.,,,,x,,,C1S07,STRAZZERI
+CORTILE,VANELLONE,,1,bisett.,,,x,,,x,C1B18,CAMPISI
+VIA,VANN'ANTO',,8,bisett.,,,x,,,x,C8B49,MOZART
+PIAZZA,VANNI ALESSANDRO,,1,bisett.,,,x,,,x,C1B15,CAMPISI
+VICOLO,VANUCCI,,1,sett.,,,x,,,,C1S10,CAMPISI
+VICOLO,VASCA,,1,sett.,,,,x,,,C1S11,CAMPISI
+VIA,VASTA PIETRO PAOLO,,8,sett.,,,,x,,,C8S34,MOZART
+CORTILE,VECCHIO (PZA GARRAFFELLO),,1,trisett.,,x,,x,,x,C1T08,STRAZZERI
+VIA,VELASQUEZ,,8,bisett.,,x,,,x,,C8B31,STRAZZERI
+VIA,VENETO,Lazio - Magnolie,8,bisett.,,x,,,x,,C8B36,MOZART
+VIA,VENETO,Magnolie - Paternò,8,bisett.,x,,,x,,,C8B39,MOZART
+VIA,VENEZIA,,1,trisett.,x,,x,,x,,C1T09,STRAZZERI
+PIAZZA,VENTIMIGLIA CARLO MARIA,,1,bisett.,,x,,,x,,C1B02,INGHAM
+CORTILE,VENTURA,,1,sett.,,,,x,,,C1S17,CAMPISI
+VIA,VENTURA GIOACCHINO,,8,trisett.,x,,x,,x,,C8T09,STRAZZERI
+PIAZZA,VERDI GIUSEPPE,,1,giorn.,x,x,x,x,x,x,C1G11,STRAZZERI
+PIAZZA,VERDI GIUSEPPE - TEATRO MASSIMO,Tutto il perimetro,1,giorn.,x,x,x,x,x,x,C1G11,STRAZZERI
+VIA,VERGA GIOVANNI,Del Giudice - Schiavo,1,bisett.,x,,,x,,,C1B13,CAMPISI
+VIA,VERGA GIOVANNI,Schiavo - Musco,1,sett.,,x,,,,,C1S15,CAMPISI
+VICOLO,VERNAGALLO,,1,bisett.,,,x,,,x,C1B18,CAMPISI
+VIA,VERONESE PAOLO,,8,sett.,,,x,,,,C8S32,MOZART
+VIA,VESALIO ANDREA,,1,bisett.,x,,,x,,,C1B13,CAMPISI
+VIA,VIGO LEONARDO,,8,sett.,,,,,,x,C8S14,STRAZZERI
+VIA,VIGO SALVATORE,,8,giorn.,x,x,x,x,x,x,C8G01,STRAZZERI
+CORTILE,VILLA FILIPPINA,,8,bisett.,,,x,,,x,C8B30,STRAZZERI
+VIA,VILLA FILIPPINA,,8,trisett.,x,,x,,x,,C8T01,STRAZZERI
+VIA,VILLA HELOISE,,8,bisett.,,,x,,,x,C8B19,MOZART
+VIA,VILLA SPERLINGA,,8,bisett.,x,,,x,,,C8B47,MOZART
+VIA,VILLAERMOSA,,8,trisett.,x,,x,,x,,C8T03,STRAZZERI
+VIA,VILLAREALE VALERIO,,8,giorn.,x,x,x,x,x,x,C8G02,STRAZZERI
+VIA,VILLASEVAGLIOS PIETRO,,8,sett.,,,,,x,,C8S17,STRAZZERI
+LARGO,VILLAURA,,8,bisett.,,x,,,x,,C8B11,STRAZZERI
+PIAZZA,VILLENA,Tutta la piazza,1,giorn.,x,x,x,x,x,x,C1G15,CAMPISI
+VICOLO,VIOLA,,1,bisett.,,,x,,,x,C1B20,CAMPISI
+VICOLO,VIOLA PLACIDO,,1,sett.,,,,,x,,C1S12,CAMPISI
+PIAZZA,VIRGILIO,,8,trisett.,x,,x,,x,,C8T05,STRAZZERI
+PIAZZETTA,VISITA POVERI,,1,trisett.,,x,,x,,x,C1T07,INGHAM
+VIA,VISITA POVERI,,1,trisett.,,x,,x,,x,C1T07,INGHAM
+VIA,VITAGLIANO GIOACCHINO,,8,bisett.,,,x,,,x,C8B28,STRAZZERI
+VICOLO,VITALE GIUSEPPE,,8,sett.,,,,,x,,C8S05,STRAZZERI
+VICOLO,VITRANO,,8,sett.,,,,x,,,C8S04,STRAZZERI
+PIAZZA,VITTORIA,(compreso gradinata collegamento via Del Bastione),1,giorn.,x,x,x,x,x,x,C1G13,CAMPISI
+PIAZZA,VITTORIA ALLO SPASIMO,,1,giorn.,x,x,x,x,x,x,C1G01,INGHAM
+VIA,VITTORIO EMANUELE,Foro Umberto I - Roma,1,giorn.,x,x,x,x,x,x,C1G06,STRAZZERI
+VIA,VITTORIO EMANUELE,Porta Nuova - P.zza Vittoria (alt. Parlamento),1,giorn.,x,x,x,x,x,x,C1G13,CAMPISI
+VIA,VITTORIO EMANUELE,Maqueda - Montevergini,1,giorn.,x,x,x,x,x,x,C1G15,CAMPISI
+VIA,VITTORIO EMANUELE,Maqueda - Roma,1,giorn.,x,x,x,x,x,x,C1G16,CAMPISI
+VIA,VITTORIO EMANUELE,Montevergini - P.zza Vittoria (alt. Parlamento),1,giorn.,x,x,x,x,x,x,C1G17,CAMPISI
+PIAZZA,VITTORIO VENETO,,8,bisett.,x,,,x,,,C8B32,MOZART
+VIA,VODIGE,,8,sett.,,,,x,,,C8S40,MOZART
+VIA,VOLTA ALESSANDRO,,8,sett.,x,,,,,,C8S01,STRAZZERI
+VIA,VOLTURNO,P.za Vittorio Emanuele Orlando - Carini,1,giorn.,x,x,x,x,x,x,C1G10,STRAZZERI
+VIA,VOLTURNO,Carini - P.za G. Verdi (entrambe le carreggiate),1,giorn.,x,x,x,x,x,x,C1G10,STRAZZERI
+VIA,WAGNER RICCARDO,,8,giorn.,x,x,x,x,x,x,C8G04,STRAZZERI
+PIAZZA,XIII VITTIME,compreso tratto Guardione - Cavour,8,bisett.,x,,,x,,,C8B01,STRAZZERI
+PIAZZA,XIMENES ETTORE,,8,bisett.,,,x,,,x,C8B06,STRAZZERI
+VIA,XIMENES ETTORE,Dalia - Albanese,8,sett.,,,,x,,,C8S04,STRAZZERI
+VIA,XIMENES ETTORE,Dalia - P.zza Ximenes,8,sett.,,,x,,,,C8S03,STRAZZERI
+VIA,XIMENES LEONARDO,Archimede - Albanese,8,sett.,,,,x,,,C8S04,STRAZZERI
+VIA,XX SETTEMBRE,Dante - XII Gennaio,8,trisett.,,x,,x,,x,C8T04,STRAZZERI
+VIA,XX SETTEMBRE,Siracusa - Messina,8,trisett.,,x,,x,,x,C8T11,STRAZZERI
+VIA,XX SETTEMBRE,Siracusa - P.zza Mameli,8,trisett.,x,,x,,x,,C8T12,STRAZZERI
+VIA,XX SETTEMBRE,P.zza Scalia - P.zza Mameli,8,trisett.,x,,x,,x,,C8T15,STRAZZERI
+VIA,XX SETTEMBRE,XII Gennaio - Messina,8,trisett.,x,,x,,x,,C8T10,STRAZZERI
+VICOLO,ZAGARELLAI,,1,bisett.,,,x,,,x,C1B05,INGHAM
+VIA,ZANDONAI RICCARDO,,8,bisett.,,,x,,,x,C8B55,MOZART
+LARGO,ZAPPALA' GIOVANNI,compresi tratti interni,8,sett.,,,,,x,,C8S36,MOZART
+VIA,ZAPPALA' GIOVANNI,Lazio - P.pe di Paternò (entrambe le carreggiate),8,sett.,,,,,,x,C8S35,MOZART
+VIA,ZARA,,1,trisett.,,x,,x,,x,C1T07,INGHAM
+CORTILE,ZECCHINO,,1,sett.,,x,,,,,C1S09,CAMPISI
+PIAZZA,ZIINO OTTAVIO,,8,trisett.,x,,x,,x,,C8T28,MOZART
+PIAZZETTA,ZIMMILLARI,,1,sett.,,,x,,,,C1S10,CAMPISI
+VICOLO,ZIMMILLARI,,1,sett.,,,x,,,,C1S10,CAMPISI
+VIA,ZUCCARELLO FILIPPO,,8,sett.,x,,,,,,C8S09,MOZART
